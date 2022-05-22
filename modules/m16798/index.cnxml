@@ -1,0 +1,3010 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Analyzing chemical equations</title>
+  <metadata>
+  <md:content-id>m16798</md:content-id><md:title>Analyzing chemical equations</md:title>
+  <md:abstract/>
+  <md:uuid>59c0f12f-b07a-4361-a4fa-7ad5cdc4a0fe</md:uuid>
+</metadata>
+
+<content>
+<para id="element-1">Application of mole concept requires a balanced chemical equation. The different constituents of the reaction – reactants and products – bear a simple whole number proportion same as the proportion of the coefficients associated with constituents. According to mole concept, the molar mass of constituents participates in this proportion.  For a generic consideration as given :
+ 
+
+</para>
+<para id="element-2"><m:math display="block">
+  <m:mrow>
+
+      <m:mi>x</m:mi>
+      <m:mi>A</m:mi>
+
+    <m:mo>+</m:mo>
+
+      <m:mi>y</m:mi>
+      <m:mi>B</m:mi>
+
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mi>x</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mi>y</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-3">
+Here, 1 mole of compound (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mi>x</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mi>y</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+) involves x mole of A and y mole of B. Using symbols :
+
+
+</para>
+<para id="element-4"><m:math display="block">
+  <m:mrow>
+    <m:mtext>x moles of A</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>y moles of B</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mi>x</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mi>y</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-448">The point to emphasize here is that  this is a relation, which is connected by "equivalence sign (≡)" - not by "equal to (=)" sign. We know that 2 moles of hydrogen reacts with 1 mole of oxygen to form 2 moles of water. Clearly, we can not equate like 2=1=2. We need to apply unitary method to interpret this relation of equivalence. We say that since x moles of A react with y moles of B. Hence, 1 mole of A reacts with y/x moles of "B". Similarly, 1 mole of B reacts with x/y moles of "A". Once we know the correspondence for 1 mole, we can find correspondence for any other value of participating moles of either A or B.</para><section id="section-1">
+<title>Mass of participating entities in a reaction</title>
+<para id="element-5">Mole concept is used to calculate mass of individual constituent of a chemical reaction. The proportion of molar mass is converted to determine proportion of mass in which entities are involved in a reaction. The symbolic mass relation for the chemical reaction as given above is :
+
+</para>
+
+
+
+<para id="element-6"><m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>A</m:mi>
+    </m:msub>
+<m:mspace width="2pt"/>
+    <m:mtext> gm of A</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mi>y</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+<m:mspace width="2pt"/>
+    <m:mtext> gm of B</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>A</m:mi>
+          <m:mi>x</m:mi>
+        </m:msub>
+        <m:msub>
+          <m:mi>B</m:mi>
+          <m:mi>y</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+<m:mspace width="2pt"/>
+    <m:mtext> gm of</m:mtext>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mi>x</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mi>y</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+
+<para id="element-13">We apply unitary method on the mass relation related with equivalent sign (≡) to determine mass of different entities of the reaction.
+
+</para>
+<example id="example-14a">
+<para id="element-14a"><term>Problem : </term> Calculate mass of lime (CaO) that can be prepared by heating 500 kg of 90 % pure limestone (<m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+.
+
+
+
+</para>
+<para id="element-14b"><term>Solution : </term> Purity of CaCO3 is 90 %. Hence,
+
+
+</para>
+<para id="element-14c"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>0.9</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>500</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>450</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>k</m:mi>
+    <m:mi>g</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-14d">The chemical reaction involved here is :
+
+
+</para>
+<para id="element-14e"><m:math display="block">
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-14f">
+Applying mole concept :
+
+
+</para>
+<para id="element-14g"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of CaO</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-14h"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>(40 + 12 + 3X 16) gm of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>(40 + 16) gm of CaO</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-14i"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>100 gm of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>56 gm of CaO</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-14j"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>100 kg of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>56 kg of CaO</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-14k">
+Applying unitary method :
+
+</para>
+<para id="element-14l"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>mass of CaO produced</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>56</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>450</m:mn>
+      </m:mrow>
+      <m:mn>100</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>252</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>k</m:mi>
+    <m:mi>g</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+
+</example>
+
+<example id="example-14">
+
+<para id="element-14">
+<term>Problem : </term> Igniting <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ converts it quantitatively to <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+. A sample of pyrolusite contains 80% <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+, 15 % <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:mi>i</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and 5 % water. The sample is ignited in air to constant weight. What is the percentage of manganese in the ignited sample ? (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mrow>
+        <m:mi>M</m:mi>
+        <m:mi>n</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>55</m:mn>
+  </m:mrow>
+</m:math>
+)
+
+</para>
+<para id="element-15">
+<term>Solution : </term> The sample contains three components. Since this question involves percentage, we shall consider a sample of 100 gm. Water component weighing 5 gm evaporates on ignition. <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:mi>i</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> weighing 15 gm does not change. On the other hand, 80 gm of <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> converts as :
+
+
+</para>
+<para id="element-16">
+<m:math display="block">
+  <m:mrow>
+    <m:mn>3</m:mn>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-17">Applying mole concept,
+</para>
+<para id="element-18"><m:math display="block">
+  <m:mrow>
+    <m:mtext>3 moles of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-19"><m:math display="block">
+  <m:mrow>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>55</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>16</m:mn>
+      </m:mrow>
+    </m:mfenced>
+    <m:mtext> gm of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mn>1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>3</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>55</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>4</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>16</m:mn>
+      </m:mrow>
+    </m:mfenced>
+    <m:mtext> gm of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-20"><m:math display="block">
+  <m:mrow>
+    <m:mn>261</m:mn>
+    <m:mtext> gm of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mn>229</m:mn>
+    <m:mtext> gm of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-21">Since sample is ignited in air to constant weight, it means that all of <m:math>
+  <m:mrow>
+    <m:mi>Mn</m:mi>
+
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> in the sample is converted. Using unitary method, we determine mass of converted mass of <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> for 80 gm of <m:math>
+  <m:mrow>
+    <m:mi>Mn</m:mi>
+
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> :
+
+
+</para>
+<para id="element-22">  <m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mtext> on conversion</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>229</m:mn>
+      <m:mn>261</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>80</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>70.2</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-23">We are required to find the percentage of Mn in the ignited sample. Thus, we need to determine the mass of the ignited sample. The ignited sample contains 70.2 gm of <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and 15 gm of <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:mi>i</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. Total mass of ignited sample is 70.2+15 = 85.4 gm. On the other hand, amount of Mn in <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is calculated from its molecular constitution :
+
+</para>
+<para id="element-24"><m:math display="block">
+  <m:mrow>
+    <m:mn>229</m:mn>
+    <m:mtext> gm of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>55</m:mn>
+    <m:mtext> gm of Mn</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mn>165</m:mn>
+    <m:mtext> gm of Mn</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-25"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Amount of Mn in 70.2 gm of</m:mtext>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>165</m:mn>
+      <m:mn>229</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>70.2</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.72</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>70.2</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>50.54</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+
+
+
+<para id="element-26">Clearly, 85.4 gm of ignited sample contains 50.54 gm of Mn. Hence, 
+
+                                                                                             
+</para>
+<para id="element-27"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Percentage amount of manganese in the ignited sample</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>50.54</m:mn>
+      <m:mn>85.4</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>59.2</m:mn>
+    <m:mo>%</m:mo>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section>
+
+<section id="section-2">
+<title>Reaction involving gas</title>
+<para id="element-28">In analyzing chemical reaction involving gas, we make the assumption that gases are ideal gases. In general, there are three different situations in which we may use gas volume in chemical analysis :
+
+ 
+
+</para>
+<para id="element-29">
+<list id="list-29" list-type="bulleted">
+
+<item> Gas volumes are given at STP. </item>
+<item> Gas volumes are given at other temperature and pressure condition.</item>
+<item> Only gas volumes are involved in calculation  </item>
+</list>
+	
+</para>
+
+<para id="element-395">In certain situation, reaction involving gas enables us to use gas volumes itself (not the moles) to analyze the reaction. We can extend the concept of molar proportions to volume proportions directly.  Such is the case, when only gas volumes are involved in the calculation. </para><section id="section-2a">
+<title>Gas volumes are given at STP</title>
+<para id="element-30">For analyzing gas volumes at STP, we make use of Avogadro’s hypothesis. A volume of 22.4 litres of ideal gas contains 1 mole of gas. The number of moles present in a volume “V” at STP is :
+</para>
+<para id="element-31">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>n</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>V</m:mi>
+      <m:mn>22.4</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<example id="example-32">
+
+<para id="element-32">
+<term>Problem : </term> Determine the amount of concentrated <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ required to neutralize 20 litres of ammonia gas at STP.
+
+</para>
+<para id="element-33">
+<term>Solution : </term> The chemical reaction involved is :
+
+</para>
+<para id="element-34">
+<m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>N</m:mi>
+          <m:msub>
+            <m:mi>H</m:mi>
+            <m:mn>4</m:mn>
+          </m:msub>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-35">Applying mole concept :
+</para>
+<para id="element-36">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>2 moles of</m:mtext>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-37">
+<m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>22.4</m:mn>
+    <m:mtext> litres of</m:mtext>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mn>98</m:mn>
+    <m:mtext> gm of</m:mtext>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-38"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Amount of</m:mtext>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mtext> for 20 litres of</m:mtext>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>98</m:mn>
+      <m:mn>44.8</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>20</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>43.8</m:mn>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+ 
+</para>
+</example>
+</section>
+
+<section id="section-2b">
+<title>Gas volumes are given at other temperature and pressure condition</title>
+<para id="element-39">Under this condition, we first need to convert gas volumes to volumes at STP. We make use of ideal gas law,
+</para>
+<para id="element-40"><m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-41">
+We may specify one of the suffix like “1” to represent the given condition and suffix “2” to represent the STP condition. 
+</para>
+<example id="example-42">
+
+<para id="element-42">
+<term>Problem : </term> Determine the amount of magnesium required to liberate 900 cc of hydrogen from a solution of HCl at 27°C and 740 mm of Hg. <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mrow>
+        <m:mi>M</m:mi>
+        <m:mi>g</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>24</m:mn>
+  </m:mrow>
+</m:math>.
+</para>
+<para id="element-43"><term>Solution : </term> The chemical reaction involved is :
+</para>
+<para id="element-44">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>l</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-45">Applying mole concept :
+
+</para>
+<para id="element-46">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>1 mole of Mg</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-47"><m:math display="block">
+  <m:mrow>
+    <m:mtext>24 gm of Mg</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>22400 cc of</m:mtext>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mtext> at STP</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-48">Using ideal gas law,
+
+
+</para>
+<para id="element-49">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>740</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>900</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>273</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>760</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>300</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>797</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>c</m:mi>
+    <m:mi>c</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-50">
+Using this data to mole relation,
+
+
+</para>
+
+
+
+<para id="element-51">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Amount of Mg</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>24</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>797</m:mn>
+      </m:mrow>
+      <m:mn>22400</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.85</m:mn>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section>
+
+
+<section id="section-2c">
+<title>Only gas volumes are involved in calculation</title>
+<para id="element-52">In this case, we are required to consider volumes of gases only. What it means that there is no solid or liquid elements involved in calculation. The reaction may involve solid or liquid components but they are not involved in calculation. In such situation, we can connect volumes of gas components of the reaction directly. Consider the reaction :
+</para>
+<para id="element-53"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>l</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-54"><m:math display="block">
+  <m:mrow>
+    <m:mtext>x litres of</m:mtext>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>x litres of</m:mtext>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>l</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>2x litres of</m:mtext>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-55">This direct relation is deducted from mole concept under two assumptions (i) all gases are ideal and (ii) temperature and pressure conditions are same for measuring all gases. Under these assumptions, equal numbers of moles of ideal gases occupy same volume. Hence, we can correlate volumes directly as above.
+</para>
+
+<example id="example-56">
+<para id="element-56"><term>Problem : </term> A 60 cc mixture of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math> and NO is mixed with excess <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and the resulting mixture of gas is exploded. The resulting mixture contains 38 cc of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. Determine the volume composition of the original mixture.
+
+
+</para>
+<para id="element-57"><term>Solution : </term>  The chemical reactions involved are :
+
+
+</para>
+<para id="element-58"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-59"><m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:mi>N</m:mi>
+    <m:mi>O</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-60">
+Let volume of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>  be x in the original mixture. Hence, volume of NO in the sample is 60 – x. Now, the corresponding mole relations are :
+
+
+</para>
+<para id="element-61"><m:math display="block">
+  <m:mrow>
+    <m:mtext>x cc of  </m:mtext>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>≡</m:mo>
+    <m:mtext>x cc of  </m:mtext>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ 
+
+</para>
+<para id="element-62"><m:math display="block">
+  <m:mrow>
+    <m:mtext>(60−x) cc of</m:mtext>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>≡</m:mo>
+    <m:mfrac>
+      <m:mfenced>
+        <m:mrow>
+          <m:mn>60</m:mn>
+          <m:mo>−</m:mo>
+          <m:mi>x</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mtext> cc of</m:mtext>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-63">
+According to question,
+
+</para>
+<para id="element-64">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>60</m:mn>
+        <m:mo>−</m:mo>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>38</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-65"><m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>60</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>76</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-66"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Volume of</m:mtext>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>16</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>c</m:mi>
+    <m:mi>c</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-67"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Volume of NO</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>60</m:mn>
+    <m:mo>−</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>60</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>16</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>44</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>c</m:mi>
+    <m:mi>c</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+</example>
+</section>
+</section>
+<section id="section-3">
+<title>Limiting reactant</title>
+
+<para id="element-68">The participating mass of the reactants may not be exactly same as required by balanced chemical reaction. The reactant which limits the progress of reaction is called limiting reactant (reagent). If gA and gB be the mass of two reactants, then moles present are :
+</para>
+<para id="element-69">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>A</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:msub>
+        <m:mi>g</m:mi>
+        <m:mi>A</m:mi>
+      </m:msub>
+      <m:msub>
+        <m:mi>M</m:mi>
+        <m:mi>A</m:mi>
+      </m:msub>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-70">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:msub>
+        <m:mi>g</m:mi>
+        <m:mi>B</m:mi>
+      </m:msub>
+      <m:msub>
+        <m:mi>M</m:mi>
+        <m:mi>B</m:mi>
+      </m:msub>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-71">
+According to mole concept :
+
+
+</para>
+<para id="element-72">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>x moles of A</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>y moles of B</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-73">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>nA moles of A</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>y</m:mi>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>x</m:mi>
+    </m:mfrac>
+    <m:mtext> moles of B</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-74">For reaction to complete as the limiting case,
+</para>
+<para id="element-75"><m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>y</m:mi>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>x</m:mi>
+    </m:mfrac>
+
+
+
+    <m:mo>=</m:mo>
+
+      <m:msub>
+        <m:mi>n</m:mi>
+        <m:mi>B</m:mi>
+      </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-76">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>y</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>A</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-77">
+For A to be limiting,
+
+</para>
+<para id="element-78">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>&gt;</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>y</m:mi>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>x</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-79">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>y</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>A</m:mi>
+    </m:msub>
+    <m:mo>&lt;</m:mo>
+    <m:mi>x</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-80">
+For B to be limiting,
+</para>
+
+
+
+<para id="element-81">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>&lt;</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>y</m:mi>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>x</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-82">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>&lt;</m:mo>
+    <m:mi>y</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>A</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-83">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>y</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>A</m:mi>
+    </m:msub>
+    <m:mo>&gt;</m:mo>
+    <m:mi>x</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<example id="example-84">
+<para id="element-84"><term>Problem : </term> Equal amounts of iron and sulphur are heated together to form FeS. What fraction of iron or Sulphur are converted into FeS. Here, <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mrow>
+        <m:mi>F</m:mi>
+        <m:mi>e</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>56</m:mn>
+  </m:mrow>
+</m:math> and <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mi>S</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>32</m:mn>
+  </m:mrow>
+</m:math>.
+
+</para>
+
+<para id="element-85">
+<term>Solution : </term> The chemical reaction involved in the conversion is :
+</para>
+<para id="element-86">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>S</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-87">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>1 mole of Fe</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 moles of S</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-88">Here, x=y=1. Now, equal amounts are used. Let “g” gm of each takes part in the reaction. The numbers of moles corresponding to “g” gm are :
+
+</para>
+
+<para id="element-90">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mrow>
+        <m:mi>F</m:mi>
+        <m:mi>e</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mn>56</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+
+<para id="element-92">
+and
+
+</para>
+<para id="element-93">
+
+<m:math display="block">
+  <m:mrow>
+    <m:mi>y</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mrow>
+        <m:mi>F</m:mi>
+        <m:mi>e</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mn>56</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-94">
+Similarly, 
+</para>
+<para id="element-95">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>S</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mn>32</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-96">Here, <m:math>
+  <m:mrow>
+    <m:mi>y</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mrow>
+        <m:mi>F</m:mi>
+        <m:mi>e</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>&lt;</m:mo>
+    <m:mi>x</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>S</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>. It means that iron is in short supply and is the limiting reactant. Clearly, all iron is converted into FeS. Hence, fraction of iron used is 1. On the other hand, the moles of Sulphur converted are <m:math>
+  <m:mrow>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mn>56</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math> only as reaction is limited by iron.
+</para>
+<para id="element-97">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of Sulphur converted in the reaction</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mn>56</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>S</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>32</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>56</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-98">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Fraction of suphur converted</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mrow>
+      <m:mn>32</m:mn>
+      <m:mi>x</m:mi>
+    </m:mrow>
+    <m:mo>/</m:mo>
+    <m:mrow>
+      <m:mn>56</m:mn>
+      <m:mi>x</m:mi>
+    </m:mrow>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>32</m:mn>
+      <m:mn>56</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.571</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section>
+<section id="section-4">
+<title>Multiple reactions</title>
+
+<para id="element-99"> Some chemical reaction under analysis involves simultaneous or concurrent reactions. Consider the example in which a mixture of KCl and KI are treated with excess of silver nitrate (<m:math>
+  <m:mrow>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) :
+
+</para>
+<para id="element-100">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mi>K</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-101">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>I</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mi>K</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>I</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-102">We apply mole concept to two concurrent reactions as :
+
+
+</para>
+<para id="element-103"><m:math display="block">
+  <m:mrow>
+    <m:mtext>1 mole of KCl</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of AgCl</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-104">and
+
+</para>
+<para id="element-105">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>1 mole of KI</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of AgI</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+
+<example id="example-107">
+<para id="element-106"><term>Problem : </term> 2.2 g of a mixture of KCl and KI yields 3.8 gm of AgCl and AgI, when treated with excess silver nitrate (<m:math>
+  <m:mrow>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+). Find the mass of KCl and KI in the original mixture.
+
+
+</para>
+<para id="element-107"><term>Solution : </term> Since the mixture is treated with excess silver nitrate, both chloride and iodide are completely consumed, forming silver chloride and iodide. Let the initial mixture contains x and y grams of KCl and KI respectively. Then, according to question :
+
+
+</para>
+<para id="element-108"><m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2.2</m:mn>
+  </m:mrow>
+</m:math>
+ 
+</para>
+<para id="element-109">This is first of two linear equations, which will be used to determine x and y. Now, chemical reactions are :
+
+
+</para>
+<para id="element-110"><m:math display="block">
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mi>K</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-111"><m:math display="block">
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>I</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mi>K</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>A</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>I</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-112">The amount of AgCl and AgI produced is 3.8 gm. Applying mole concept to first equation,
+</para>
+<para id="element-113"><m:math display="block">
+  <m:mrow>
+    <m:mtext>1 mole of KCl</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of AgCl</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-114"><m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>39</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>35.5</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mtext> moles of KCl</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>39</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>35.5</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mtext> moles of AgCl</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mn>74.5</m:mn>
+    </m:mfrac>
+    <m:mtext> moles of AgCl</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-115">
+Therefore, mass of AgCl is :
+
+
+</para>
+<para id="element-116"><m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mn>74.5</m:mn>
+    </m:mfrac>
+    <m:mtext> moles of AgCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mn>74.5</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>108</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>35.5</m:mn>
+      </m:mrow>
+    </m:mfenced>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>143.5</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>74.5</m:mn>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-117">Similarly, applying mole concept to second equation,
+
+
+</para>
+<para id="element-118"><m:math display="block">
+  <m:mrow>
+    <m:mtext>1 mole of KI</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>1 mole of AgI</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-119">
+<m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>39</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>127</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mtext> moles of KCl</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mfrac>
+      <m:mi>y</m:mi>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>39</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>127</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mtext> moles of AgI</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mfrac>
+      <m:mi>y</m:mi>
+      <m:mn>166</m:mn>
+    </m:mfrac>
+    <m:mtext> moles of AgI</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-120">
+Therefore, mass of AgI is :
+
+</para>
+<para id="element-121">
+<m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mi>y</m:mi>
+      <m:mn>166</m:mn>
+    </m:mfrac>
+    <m:mtext> moles of AgI</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>y</m:mi>
+      <m:mn>166</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>108</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>127</m:mn>
+      </m:mrow>
+    </m:mfenced>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>235</m:mn>
+    <m:mfrac>
+      <m:mi>y</m:mi>
+      <m:mn>166</m:mn>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-122">According to question,
+
+</para>
+<para id="element-123">
+<m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>143.5</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>74.5</m:mn>
+    </m:mfrac>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>235</m:mn>
+        <m:mi>y</m:mi>
+      </m:mrow>
+      <m:mn>166</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>3.8</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-124">
+In order to render coefficient of first term of the equation equal to 1 and hence simplify the equation, we multiply the equation by <m:math>
+  <m:mrow>
+    <m:mfrac>
+      <m:mn>74.5</m:mn>
+      <m:mn>143.5</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>,
+
+
+</para>
+<para id="element-125"><m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>74.5</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>235</m:mn>
+        <m:mi>y</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>143.5</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>166</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>3.8</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>74.5</m:mn>
+      </m:mrow>
+      <m:mn>143.5</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-126"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>0.73</m:mn>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1.97</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-127">Thus, we have two linear equations and two unknowns. Substituting for y in terms of x from first  linear equation derived earlier, we have :
+
+</para>
+<para id="element-128">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>0.73</m:mn>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>2.2</m:mn>
+        <m:mo>−</m:mo>
+        <m:mi>x</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mn>1.97</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-129">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>1.61</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>0.73</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1.97</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-130">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.27</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.36</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-131">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1.34</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-132">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2.2</m:mn>
+    <m:mo>−</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2.2</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>1.34</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.86</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section> 
+
+<section id="section-5">
+<title>Chain reaction</title>
+<para id="element-133">A chemical process involves multiple reactions in which product of one reaction becomes reactant in the second reaction. Consider example of formation of sulphuric acid from pyrite(<m:math>
+  <m:mrow>
+
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+
+  </m:mrow>
+</m:math>
+) :
+</para>
+<para id="element-134"><m:math display="block">
+  <m:mrow>
+    <m:mn>4</m:mn>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>11</m:mn>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>F</m:mi>
+    <m:msub>
+      <m:mi>e</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>8</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-135"><m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-136"><m:math display="block">
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-137">Here, first reaction supplies <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> required as reactant in the second reaction. We, therefore, need to multiply second reaction 4 times so that <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ molecules are balanced. Similarly, third reaction should be multiplied by 8 to match <m:math>
+  <m:mrow>
+    <m:mn>8</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> molecules produced in the second reaction. Thus, balanced chain reaction is :
+
+</para>
+<para id="element-138"><m:math display="block">
+  <m:mrow>
+    <m:mn>4</m:mn>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>11</m:mn>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>F</m:mi>
+    <m:msub>
+      <m:mi>e</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>8</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-139"><m:math display="block">
+  <m:mrow>
+    <m:mn>8</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>4</m:mn>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>8</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-140"><m:math display="block">
+  <m:mrow>
+    <m:mn>8</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>8</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>→</m:mo>
+    <m:mn>8</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-141">From balanced chain equations, we conclude that :
+
+</para>
+<para id="element-142">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>4 moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>8 moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-143"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>2 moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-144">Alternatively, we can argue that one molecule of <m:math>
+  <m:mrow>
+
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+
+  </m:mrow>
+</m:math> contains 2 atoms of Sulphur(S). On the other hand, one molecule of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> contains 2 atoms of Sulphur(S). Further, there is no loss or gain of Sulphur in chain reactions. Hence, to conserve mass of suphur,
+
+
+</para>
+<para id="element-145"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>2 moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<example id="example-146">
+<para id="element-146"><term>Problem : </term>  How many grams of sulphuric acid can be obtained from 100 gm of pyrite?
+
+
+</para>
+<para id="element-147"><term>Solution : </term> Here,
+</para>
+<para id="element-148"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>1 mole of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>2 moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-149"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>(56+2X32) gm of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>2X(2X1+32+4X16) moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-150"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>120 gm of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>196 gm of</m:mtext>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-151">
+Applying unitary method,
+
+
+</para>
+<para id="element-152">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>mass of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>192</m:mn>
+      <m:mn>120</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>160</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+
+</section>
+
+<para id="element-153">
+</para>
+<para id="element-154">
+</para>
+<para id="element-155">
+</para>
+<para id="element-156">
+</para>
+<para id="element-157">
+</para>
+<para id="element-158">
+</para>
+<para id="element-159">
+</para>
+<para id="element-160">
+</para>
+<para id="element-161">
+</para>
+<para id="element-162">
+</para>
+<para id="element-163">
+</para>
+<para id="element-164">
+</para>
+<para id="element-165">
+</para>
+<para id="element-166">
+</para>
+<para id="element-167">
+</para>
+<para id="element-168">
+</para>
+<para id="element-169">
+</para>
+<para id="element-170">
+</para>
+<para id="element-171">
+</para>
+<para id="element-172">
+</para>
+<para id="element-173">
+</para>
+<para id="element-174">
+</para>
+<para id="element-175">
+</para>
+<para id="element-176">
+</para>
+<para id="element-177">
+</para>
+<para id="element-178">
+</para>
+<para id="element-179">
+</para>
+<para id="element-180">
+</para>
+<para id="element-181">
+</para>
+<para id="element-182">
+</para>
+  </content>
+  
+</document>

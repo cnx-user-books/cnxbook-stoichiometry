@@ -1,0 +1,1618 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Neutralization reaction</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0ed3d566-3774-40aa-beb6-92c0a2faea5b</md:uuid>
+</metadata>
+  <content>
+<para id="element-1">
+Neutralization reaction refers to acid and base reaction producing salt and water. The equivalent amounts of acid react with base to form equivalent amounts of salt and water. When the reaction is complete, acid and base are said to neutralize each other. Since water is produced, neutralization reaction is also referred as “water forming reaction”.
+
+</para>
+<para id="element-2"><m:math display="block">
+  <m:mrow>
+    <m:mtext>acid</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mtext>base</m:mtext>
+    <m:mo>→</m:mo>
+
+    <m:mtext>salt</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mtext>water</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-3">
+Consider reaction like :
+
+</para>
+<para id="element-4">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-5">
+We can rewrite the reaction in ionic form as :
+
+</para>
+<para id="element-6">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msup>
+      <m:mi>a</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>O</m:mi>
+    <m:msup>
+      <m:mi>H</m:mi>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>1</m:mn>
+      </m:mrow>
+    </m:msup>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msup>
+      <m:mi>H</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msup>
+      <m:mi>l</m:mi>
+      <m:mo>-</m:mo>
+    </m:msup>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>N</m:mi>
+    <m:msup>
+      <m:mi>a</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msup>
+      <m:mi>l</m:mi>
+      <m:mo>-</m:mo>
+    </m:msup>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-7">
+Essentially, neutralization reaction is double displacement reaction. Some definitions used in the study of neutralization reaction are : 
+
+</para>
+<para id="element-8">
+<term> Equivalence point : </term> The state of acid base reaction when acid and base react in exact equivalent amounts as determined theoretically. 
+</para>
+<para id="element-9">
+<term>End point : </term>The state of acid base reaction when acid and base react in exact equivalent amounts as determined practically (during titration). Clearly, end point volume measurement is slightly greater than that corresponding to equivalence point. 
+</para>
+<para id="element-10">
+<term> Neutral point : </term> The state of acid-base reaction when product solution is neutral (pH=7).
+
+</para>
+<para id="element-11">The ionic salt formed from the reaction of strong acid <m:math>
+  <m:mrow>
+    <m:mo>[</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4,</m:mn>
+    </m:msub>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>,</m:mo>
+    <m:mi>H</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3,</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>P</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>]</m:mo>
+  </m:mrow>
+</m:math>
+and strong base <m:math>
+  <m:mrow>
+    <m:mo>[</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mo>,</m:mo>
+    <m:mi>K</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mo>,</m:mo>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2,</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>]</m:mo>
+  </m:mrow>
+</m:math>
+are pH neutral. Also, water is pH neutral. As such, strong acid and strong base reaction yields neutral products or product solution. In this case, equivalence and neutral points are same.
+
+</para>
+<para id="element-12">However, salts formed with other combinations like “strong acid - weak base” and “weak acid - strong base” are not neutral. They produce salts, which are either acidic or basic in nature. As such, pH of the product solution is not 7. Here, equivalence point is not same as neutral point.
+
+
+</para>
+<para id="element-13">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mtext>strong acid</m:mtext>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mtext>weak base</m:mtext>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>N</m:mi>
+          <m:msub>
+            <m:mi>H</m:mi>
+            <m:mn>4</m:mn>
+          </m:msub>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mtext>acidic salt</m:mtext>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-14">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mtext>weak acid</m:mtext>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mtext>strong base</m:mtext>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mtext>basic salt</m:mtext>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-15">
+We refer acid-base reaction as neutralization reaction even though products are not neutral (pH=7). As a matter of fact, product solution is acidic (pH&lt;3) for strong acid –weak base reaction. We need to add more of base solution beyond equivalence volume to make the product solution neutral. Similarly, product solution is basic (pH&gt;7) for weak acid-strong base reaction. Here, we need to add more acid beyond equivalence volume to make the product solution neutral.
+
+</para>
+<section id="section-1">
+<title> Titration</title>
+<para id="element-16">The acid-base reaction involves completion of reaction in equivalent proportion of solutes in the solutions. The experimental process to study proportion of reacting volumes and calculation of mass/ concentration of solution is known as “titration”. Completion of reaction is known by chemical indicator or by other means depending on the type of reaction involved. We shall study details of titration process separately.
+</para>
+</section>
+<section id="section-2">
+<title> Analyzing neutralization reaction </title>
+
+
+<para id="element-17">
+We treat neutralization reaction on similar footing as other reactions. Generally, it involves reaction between two solutions of certain concentrations. Clearly, it is helpful to describe analysis in terms of molarity or normality. For a generic consideration :
+
+</para>
+<para id="element-18">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mi>p</m:mi>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>q</m:mi>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-19">
+In terms of moles, we have :
+
+</para>
+<para id="element-20"><m:math display="block">
+  <m:mrow>
+    <m:mtext>m moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>n moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>p moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mtext>q moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-21"><m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mi>p</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>≡</m:mo>
+    <m:mi>q</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-22">Consideration in molarity gives a relation that needs to be analyzed using unitary method. It is important to realize that this is not a relation which are not connected with "equal to (=)" sign. In terms of gram equivalents (geq), we have :
+
+</para>
+<para id="element-23">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-24">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-25">Consideration in normality gives a relation that are connected with "equal to (=)" sign. It is so because constituents react in the proportion of equivalent weights. As such, gram equivalents are equal. Clearly, analysis involving normality is relatively easier to handle.
+</para>
+<example id="example-26">
+
+<para id="element-26">
+<term>Problem : </term> 
+  A 25 ml of nitric acid taken from a stock volume of 1 litre neutralizes 50 ml of 0 .1N NaOH solution. Determine the mass of nitric acid in the stock volume.
+
+</para>
+<para id="element-27"><term>Solution : </term> Let us denote nitric acid and sodium hydroxide by subscripts "1" and "2" respectively. Applying neutralization equation,
+
+
+</para>
+<para id="element-28">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-29">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:mn>25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>50</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-30">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>5</m:mn>
+      <m:mn>25</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-31">
+The normality of sample and the stock volume is same. Hence, normality of 1 litre stock volume is 0.2N. Using formula,
+
+</para>
+<para id="element-32"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>geq</m:mtext>
+    <m:mo>=</m:mo>
+      <m:mi>N</m:mi>
+      <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>E</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-33">
+Valence factor of nitric acid is 1 as it has one furnishable hydrogen. Therefore,
+
+</para>
+<para id="element-34">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.2</m:mn>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>x</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>14</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>12.6</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+
+<section id="section-2a">
+<title> Successive neutralization </title>
+
+<para id="element-35">
+
+In this case, data of two or more neutralization reactions is analyzed to determine unknown concentration of solution.
+</para>
+<example id="example-36">
+<para id="element-36">
+<term>Problem : </term> 
+18 ml of 0.1N <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+is neutralized by 20 ml of a NaOH solution. On the other hand, 10 ml of oxalic acid is required to neutralize the same volume of NaOH solution. Determine the mass of oxalic acid crystals <m:math>
+  <m:mrow>
+    <m:mo>{</m:mo>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>C</m:mi>
+          <m:mi>O</m:mi>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mn>.2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>}</m:mo>
+  </m:mrow>
+</m:math>
+ used.
+</para>
+<para id="element-37">
+<term>Solution : </term> 
+ A solution of known concentration of sulphuric acid neutralizes sodium hydroxide solution of unknown concentration. Applying neutralization equation, we determine normality of sodium hydroxide solution :
+
+</para>
+<para id="element-38">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-39">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>18</m:mn>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:mn>20</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-40">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1.8</m:mn>
+      <m:mn>20</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.09</m:mn>
+    <m:mi>N</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-41">
+Now, a solution of known concentration of sodium hydroxide neutralizes oxalic acid solution of unknown concentration. Again applying neutralization equation, we determine normality of oxalic acid solution :
+</para>
+<para id="element-42">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-43">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.09</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>20</m:mn>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:mn>10</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-44">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1.8</m:mn>
+      <m:mn>10</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.18</m:mn>
+    <m:mi>N</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-45">
+Using formula,
+
+</para>
+<para id="element-46"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>geq</m:mtext>
+    <m:mo>=</m:mo>
+      <m:mi>N</m:mi>
+      <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.19</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>10</m:mn>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1.9</m:mn>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.0019</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>E</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-47">
+Valence factor of oxalic acid is 2 as it has two furnishable hydrogens. Therefore,
+
+</para>
+<para id="element-48">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.0019</m:mn>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>x</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.0019</m:mn>
+        <m:mi>X</m:mi>
+        <m:mo>{</m:mo>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>12</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>1</m:mn>
+          </m:mrow>
+        </m:mfenced>
+        <m:mo>+</m:mo>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>18</m:mn>
+        <m:mo>}</m:mo>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>2</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.1197</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+
+</example>
+
+</section>
+<section id="section-2c">
+<title> Dilution and neutralization</title>
+
+<para id="element-50">
+
+The resulting solution of two or more solutions or diluted solution is neutralized by other solution.
+</para>
+<example id="example-51">
+<para id="element-51"><term>Problem : </term> 
+ 5 ml each of 2N hydrochloric and 3N nitric acids volumes are mixed with a certain volume of 5N sulphuric and the resulting solution is made up to 1 litre. A volume of 25 ml of this solution neutralizes 50 ml of sodium carbonate solution containing 1 gm of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mn>.10</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+in water. Determine the volume of sulphuric acid in the mixture.
+</para>
+<para id="element-52">
+<term>Solution : </term> 
+A combination of different acids are used here. The mixture is then diluted up to 1 litre. Let the volume of sulphuric acid used is x ml. Here, milli-gram equivalents of the mixture is :
+
+</para>
+<para id="element-53">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>2</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>3</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>5</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>25</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>5</m:mn>
+    <m:mi>x</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-54">
+Applying equation of dilution,
+
+</para>
+<para id="element-55">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-56">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>25</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>5</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-57">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>5</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-58">
+We see here that normality of acid solution has one unknown. 25 ml of diluted acid neutralizes 50 ml of sodium carbonate solution. Clearly, we need to calculate normality of sodium carbonate used. We see here that strength of sodium carbonate solution is given (1 gm/50 ml = 20 gm/l). Using relation,
+
+</para>
+<para id="element-59">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>E</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-60">
+The valence factor of sodium carbonate is 2 as its cation or anion has 2 electronic charge.
+ 
+</para>
+<para id="element-61">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>S</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:mi>S</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>20</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>23</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>12</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>10</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>18</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>40</m:mn>
+      <m:mn>286</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.14</m:mn>
+    <m:mi>N</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-62">
+Now, using neutralization equation :
+
+</para>
+<para id="element-63">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-64">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>5</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.14</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>50</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-65">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>25</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>5</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.28</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>280</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-66">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>5</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>280</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>255</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-67">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>255</m:mn>
+      <m:mn>5</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>51</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+</section>
+<section id="section-2d">
+<title> Neutralization of oleum</title>
+
+
+<para id="element-68">Oleum is concentrated sulphuric acid and free suplhur trioxide ( <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+). When <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ reacts with water, it produces sulphuric acid. 
+</para>
+<para id="element-69">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-70">
+It means that <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ molecule is equivalent to sulphuric acid in the presence of water. Thus, neutralization of base with oleum acid will follow the equivalence as :
+
+</para>
+<para id="element-71">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>b</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>s</m:mi>
+    <m:mi>e</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+
+<example id="example-1">
+
+
+<para id="element-72">
+<term>Problem : </term> 
+ 1 gm of oleum is diluted in water. The resulting solution requires 45 ml of 0.5N sodium hydroxide solution for neutralization. Determine the mass of free <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ in the oleum.
+
+</para>
+<para id="element-73">
+<term>Solution : </term> 
+ Let mass of <m:math>
+  <m:mrow>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ in oleum is x. Then, mass of sulphuric acid in the oleum is 1-x. We can find gram-equivalents of the sulphuric acid and oleum provided we know valence factors. The valence factor of each of them is 2. Hence, equivalent weights of sulphuric acid and Sulphur trioxide are 98/2=49 and 80/2=40 respectively. Applying neutralization equation,
+</para>
+<para id="element-74">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>b</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>s</m:mi>
+    <m:mi>e</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+
+<para id="element-75">
+<m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1</m:mn>
+        <m:mo>-</m:mo>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>49</m:mn>
+    </m:mfrac>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mn>40</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.5</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>45</m:mn>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>22.5</m:mn>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-77">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>40</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>40</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>49</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>49</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>40</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfrac>
+      <m:mn>22.5</m:mn>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>44.100</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-78">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>9</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>4.41</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-79">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>4.41</m:mn>
+      <m:mn>9</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+
+</section>
+</section>
+
+
+
+
+  </content>
+  
+</document>

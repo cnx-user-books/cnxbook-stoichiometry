@@ -1,0 +1,2260 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Gram equivalent concept</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>361f7086-e1c0-4e11-a266-fe6c933bf464</md:uuid>
+</metadata>
+  <content>
+<para id="element-1">Mole concept is based on molecular weight. An equivalent concept is “gram equivalent weight” or “gram equivalent” concept. It is based on equivalent weight. Equivalent weight is measure of mass proportion of an element, compound or ion in which it combines with the mass of other chemical entities. Mass of one gram equivalent, like its mole counterpart, is equal to mass in gram, which is numerically equal to equivalent weight. 
+</para>
+<section id="section-1">
+<title>Equivalent weight (E)</title>
+<para id="element-2">Equivalent weight unlike molecular weight is proportional mass of chemical entities which combine or displace other chemical entities. 
+</para>
+<para id="element-3">
+<definition id="definition-1">
+<term> Equivalent weight </term>
+<meaning id="idm10260672"> It is defined as the mass of an element/compound/ion which combines or displaces 1 part of hydrogen or 8 parts of oxygen or 35.5 parts of chlorine by mass. </meaning>
+</definition>
+</para>
+<para id="element-4">It is not always possible to apply this classic definition to determine equivalent weights of chemical entities. It is so because, we can not conceive of reactions involving chemical entities with three named reference of hydrogen, oxygen and chlorine. Generally, we are limited to determination of equivalent weights of elements and few compounds by using this definition of equivalent weight. A more workable definition is given as :
+
+</para>
+<para id="element-5"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Molecular weight</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Valence factor</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>x</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-6">Clearly, determination of equivalent weight amounts to determining valence factor “x”. Here, we shall classify chemical entities and the techniques to determine “x”.
+</para>
+<section id="section-1a">
+<title>Equivalent weight of an element</title>
+<para id="element-7">In the case of an element, the equivalent weight is defined as :
+</para>
+<para id="element-8">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Atomic weight</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Valency</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+      <m:mi>x</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-9">Note that atomic weight substitutes molecular weight and valency substitutes valence factor in the definition. Valencies of hydrogen, calcium and oxygen are 1,2 and 2 respectively. Hence, their equivalent weights are 1/1 =1, 40/2 = 20 and 16/2 = 8 respectively. 
+</para>
+</section>
+<section id="section-1b">
+<title>Equivalent weight of an acid</title>
+<para id="element-10">The valence factor of an acid is equal to its basicity. The basicity of an acid is equal to furnishable hydrogen ion (proton) in its aqueous solution. Importantly, basicity is not same as the number of hydrogen atoms in acid molecule. Consider acetic acid (CH3COOH). It contains 4 hydrogen atoms in it, but only 1 furnishable hydrogen ion. As such, basicity of acetic acid is 1. With this background, we define equivalent weight of an acid as :
+
+
+
+</para>
+<para id="element-11"> <m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Molecular weight of acid</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Basicity</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-12">Basicity of sulphuric acid is 2. Hence, equivalent weight of sulphuric acid (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) is (2X1 + 32 + 4X16)/2 = 98/2 = 49. Similarly, basicity of oxalic acid is 2. Hence, equivalent weight of oxalic acid  (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>C</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+) is (2X1 + 2X12 + 4X16)/2 = 90/2=45.
+
+
+</para>
+<para id="element-13">Phosphorous based acids like phosphoric acid (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>P</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+), phosphorous acid (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>P</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) and hypo-phosphorous acid (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>P</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) need special mention here to understand their basicity. The structures of three acids are shown here. From the structure, it appears that these compounds may furnish OH ions, but bond strengths between phosphorous and oxygen (P-O) and phosphorous and hydrogen (P-H) are stronger than between oxygen and hydrogen (O-H) in –OH group. As such, these molecules release hydrogen ions from –OH group and behave as acid. Clearly, basicities of phosphoric acid (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>P</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>), phosphorous acid (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>P</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) and hypo-phosphorous acid (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>P</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) are 3, 2 and 1 respectively.
+
+
+</para>
+<para id="element-14">
+<figure id="fig-14">
+<title> Phosphorous based acids </title>
+<media id="idm4250352" alt=""><image src="../../media/ge1.gif" mime-type="image/gif"/></media>
+<caption> Furnishable hydrogen ions of acids</caption>
+</figure>
+
+</para>
+</section>
+<section id="section-1c">
+<title>Equivalent weight of a base</title>
+<para id="element-15">The valence factor of a base is equal to its acidity. The acidity of a base is equal to furnishable hydroxyl ion (OH-) in its aqueous solution. With this background, we define equivalent weight of a base as :
+
+
+</para>
+<para id="element-16"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Molecular weight of base</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Acidity</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+                
+
+
+
+</para>
+<para id="element-17">Acidity of KOH is 1, whereas acidity of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is 2. Hence, equivalent weight of KOH is (39 + 16 + 1)/1 = 56/1 = 56. Similarly, equivalent weight of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is {40 + 2X(16+1)}/2 = 74/2=37.
+</para>
+</section>
+<section id="section-1d">
+<title>Equivalent weight of a compound</title>
+<para id="element-18">The valence factor of a compound depends on the manner a compound is involved in a reaction. The compounds of alkali metal salts and alkaline earth metal salts are, however, constant. These compounds are ionic and they dissociate in ionic components in aqueous solution. In this case, valence factor is equal to numbers of electronic charge on either cation or anion.
+
+
+</para>
+<para id="element-19">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Molecular weight of compound</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Numbers of electronic charge on cation or anion</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-20">The numbers of electronic charge on cation of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is 1. Hence, equivalent weight of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is (23 + 1 + 12 + 3X16)/1 = 84. 
+</para>
+
+<para id="element-20a">
+If we look at the defining ratio of equivalent weight of a compound (AB) formed of two radicals (say A and B), then we can rearrange the ratio as :
+
+</para>
+<para id="element-20b">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight, E</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>Molecular weight of Radical A</m:mtext>
+      <m:mtext>Numbers of electronic charge</m:mtext>
+    </m:mfrac>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mtext>Molecular weight of Radical B</m:mtext>
+      <m:mtext>Numbers of electronic charge</m:mtext>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-20c">
+Thus, 
+
+</para>
+<para id="element-20d">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Equivalent weight of AB</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>Equivalent weight of A</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mtext>Equivalent weight of B</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+
+</section>
+<section id="section-1e">
+<title>Equivalent weight of an ion</title>
+
+<para id="element-21">The valence factor of an ion is equal to numbers of electronic charge on the ion. Therefore, we define equivalent weight of an ion as :
+</para>
+<para id="element-22"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Molecular weight of ion</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Numbers of electronic charge</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-23">The numbers of electronic charge on carbonate ion (<m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msubsup>
+      <m:mi>O</m:mi>
+      <m:mrow>
+        <m:mn>3</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mo>-</m:mo>
+      </m:mrow>
+    </m:msubsup>
+  </m:mrow>
+</m:math>
+) is 2. Hence, equivalent weight of carbonate ion is (12 + 3X16)/1 = 60/2 = 30. Similarly, equivalent weight of aluminum ion (<m:math>
+  <m:mrow>
+    <m:mi>A</m:mi>
+    <m:msup>
+      <m:mi>l</m:mi>
+      <m:mrow>
+        <m:mn>3</m:mn>
+        <m:mo>+</m:mo>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>) is 27/3 = 9.
+</para>
+
+</section>
+<section id="section-1f">
+<title>Equivalent weight of an oxidizing or reducing agent</title>
+<para id="element-24">
+
+In a redox reaction, one of the reacting entities is oxidizing agent (OA). The other entity is reducing agent (RA). The oxidizer is recipient of electrons, whereas reducer is releaser of electrons. The valence factor for either an oxidizing or reducing agent is equal to the numbers of electrons transferred from one entity to another. 
+
+
+
+</para>
+<para id="element-25">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Molecular weight of compound</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Numbers of electrons transferred in redox reaction</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-26">Alternatively,
+
+
+</para>
+<para id="element-27">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight</m:mtext>
+    <m:mo>,</m:mo>
+    <m:mi>E</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Molecular weight of compound</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Change in oxidation number in redox reaction</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-28">Potassium dichromate in acidic medium is a strong oxidizer. It means it gains electrons during redox reaction. Potassium dichromate in acidic solution results in :
+
+
+</para>
+<para id="element-29"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>K</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>r</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>7</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>14</m:mn>
+    <m:msup>
+      <m:mi>H</m:mi>
+      <m:mrow>
+        <m:mo>+</m:mo>
+      </m:mrow>
+    </m:msup>
+    <m:mo>+</m:mo>
+    <m:mn>6</m:mn>
+    <m:msup>
+      <m:mi>e</m:mi>
+      <m:mrow>
+        <m:mo>−</m:mo>
+      </m:mrow>
+    </m:msup>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+
+    <m:msup>
+    <m:mi>K</m:mi>
+    <m:mo>+</m:mo>
+    </m:msup>
+
+
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>C</m:mi>
+    <m:msup>
+      <m:mi>r</m:mi>
+      <m:mrow>
+        <m:mn>3</m:mn>
+        <m:mo>+</m:mo>
+      </m:mrow>
+    </m:msup>
+    <m:mo>+</m:mo>
+    <m:mn>7</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-30">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>K</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>r</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>7</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>294.2</m:mn>
+      <m:mn>6</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>49</m:mn>
+  </m:mrow>
+</m:math>
+       
+
+</para>
+<para id="element-31">
+Study of redox reaction is in itself an exclusive and extensive topic. We shall, therefore, discuss redox reaction separately.
+</para>
+</section>
+</section>
+<section id="section-2">
+<title>Gram equivalent(geq)</title>
+<para id="element-32">It is equal to mass in grams numerically equal to equivalent weight. If the mass of a chemical entity is “g” grams, then the given mass contains gram equivalents given by :  
+</para>
+
+<para id="element-34">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Gram equivalent (geq)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-35">This formula is widely used to express grams of substance in terms of gram equivalent and vice-versa.
+</para>
+
+<section id="section-2a">
+<title>Relation between moles and gram equivalents (geq)</title>
+<para id="element-36">Gram equivalents is given by :
+</para>
+<para id="element-37">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-38">
+Substituting for equivalent weight, we have :
+
+
+</para>
+<para id="element-39">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-40">Moles is given by :
+</para>
+<para id="element-41">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>n</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-42">
+Combining expressions, we have :
+</para>
+<para id="element-43">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mi>n</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-44"><m:math display="block">
+  <m:mrow>
+    <m:mtext>gram equivalent</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>valence factor</m:mtext>
+    <m:mi>X</m:mi>
+    <m:mtext>moles</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+</section>
+<section id="section-3">
+<title>Gram equivalent concept</title>
+<para id="element-45">Consider the example of formation of water :
+
+</para>
+<para id="element-46">
+<m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-47">
+Here, 2 moles of hydrogen combines with 1 mole of oxygen to form 2 moles of water molecule. In terms of mass, 4 gm of hydrogen combines with 32 gm of oxygen to form 36 gm of water molecule. The relevant proportions involved with this equation are :
+
+
+</para>
+<para id="element-48"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Coefficients of balanced equation = 2:1:2</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-49"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Molecules/moles = 2:1:2</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-50"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass = 4:32:36 = 1:8:9</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-51">On the other hand, equivalent weights of hydrogen, oxygen and water are 1, 8 and 9. Clearly, proportion of mass in which chemical entities participate is exactly the proportion of equivalent weights! Note that mole concept depends on the coefficient of balanced chemical equation. On the other hand, the equivalent weight concept is independent of coefficient of balanced chemical equation. If we know that hydrogen and oxygen combines to form water molecule, then we can say straightway that entities are in the proportion of equivalent weights - without any reference to coefficients in the balanced chemical equation. 
+</para>
+<para id="element-52"><m:math display="block">
+  <m:mrow>
+    <m:mtext>equivalent weight of hydrogen</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>equivalent weight of oxygen</m:mtext>
+    <m:mo>≡</m:mo>
+    <m:mtext>equivalent weight of water</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-53">Note that there is no mention of coefficients of balanced chemical equation in the equivalent weight  relation. We should, however, understand that two techniques of analyzing chemical reactions are essentially equivalent. We need to consider coefficients involved in balanced chemical equation for applying mole concept. On the other hand, coefficients are not considered when using equivalent weight concept, but we need to know the corresponding valence factor of each entity. It is important to realize that above relation is not a relation connected by "equal to (=)" sign. Rather, they are connected by equivalent sign (≡). As such, we still need to apply unitary method to analyze the relation. 
+</para><para id="element-413">Gram equivalent concept is a step head in this context. The gram equivalents of participating entities are same. For the case of formation of water, the proportion of mass of hydrogen, oxygen and water is 1 gm: 8 gm : 9 gm. Now, we know that the gram equivalents of entities are obtained by dividing mass by equivalent weight. Hence, gram equivalents of three entities are 1/1 = 1, 8/8=1 and 9/9 = 1. Thus, gram equivalents of participating entities are same. If gram equivalents of hydrogen is 2, then gram equivalents of oxygen and water will also be 2. As such : </para><para id="element-863"><m:math display="block">
+  <m:mrow>
+    <m:mtext>x gm equivalents of hydrogen</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>x gm equivalents of oxygen</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>x gm equivalents of water</m:mtext>
+  </m:mrow>
+</m:math></para><para id="element-746">Significant aspect of this relation is that it is connected with equal to (=) sign and as such relieves us from applying unitary method altogether.</para>
+<example id="example-105">
+<para id="element-105"><term>Problem : </term> 100 gm of a mixture nitrates of two metals A and B are heated to constant weight of 50 gm, containing corresponding oxides of the metals. The equivalent weights of A and B are 103 and 31 respectively. What is the percentage composition of A and B in the mixture.
+</para>
+<para id="element-106"><term>Solution : </term> Here, we make use of the fact that :
+</para>
+<para id="element-107">Equivalent weight of metal nitrate = 
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight of metal nitrate</m:mtext>
+    <m:mo>=</m:mo>
+      <m:mtext>Equivalent weight of metal </m:mtext>
+    <m:mo>+</m:mo>
+      <m:mtext> Equivalent weight of nitrate - radical</m:mtext>
+  </m:mrow>
+</m:math></para>
+<para id="element-108">Therefore, 
+
+</para>
+<para id="element-109">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight of nitrate of A</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>103</m:mn>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>14</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mn>1</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>103</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>62</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>165</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-110"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight of oxide of A</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>103</m:mn>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mn>16</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>103</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>8</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>111</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-111"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight of nitrate of B</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>31</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>62</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>93</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-112"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Equivalent weight of oxide of B</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>31</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>8</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>39</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-113">Let the mass of A in the mixture be x gm. Then mass of B is 100-x gm. Applying concept of equivalent weight concept to chemical reaction,
+
+
+</para>
+<para id="element-114">165 gm of nitrate of A yields 111 gm of A’s oxide. Therefore, x gm of A’s nitrate yields :
+
+
+</para>
+<para id="element-115"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>mass of A’s oxide</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>111</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>165</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.67</m:mn>
+    <m:mi>x</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-116">Similarly,
+
+
+</para>
+<para id="element-117"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>mass of B’s oxide</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>39</m:mn>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>100</m:mn>
+            <m:mo>−</m:mo>
+            <m:mi>x</m:mi>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mn>93</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.42</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>0.42</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>42</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>0.42</m:mn>
+    <m:mi>x</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-118">According to question,
+
+
+</para>
+<para id="element-119"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.67</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>.42</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>0.42</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>50</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-120"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.25</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>50</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>42</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>8</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-121"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>32</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-121a">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of A</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>32</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-121b"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of B</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>−</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>68</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-121c">Thus, mixture contains 32 % of A and 68 % of B.
+</para>
+<para id="element-121d">
+</para>
+</example>
+</section>
+
+<section id="section-4">
+<title>Normality(N)</title>
+<para id="element-54">Normality is a measure of concentration of solution. It compares solute in terms of gram equivalents to the volume of solution in litres. 
+
+
+
+
+</para>
+<para id="element-55">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Normality(N)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>geq</m:mtext>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mi>L</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-56">Its unit is geq/ litres. In case we consider volume in ml i.e. cc, then the expression of normality is given as :
+
+
+</para>
+<para id="element-57">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Normality(N)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>geq</m:mtext>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>milli-gram equivalent</m:mtext>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>meq</m:mtext>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-58">If volume of a solution of known normality is known, then number of gram equivalents or milli-gram equivalents of solute are obtained as :
+
+
+</para>
+<para id="element-59"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>geq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mi>L</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-60">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>C</m:mi>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-61">It is evident from the definition of normality that normality of a given bulk solution and that of a sample taken from it are same. For example, if we take 10 cc of sulphuric acid from 1 litre of 0.2N sulphuric acid solution, then normality of sample taken is also 0.2N. However, geq or meq will be different as the amount of solutes are different.
+
+
+</para>
+<para id="element-62">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq in bulk solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>200</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-63">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq in sample</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>10</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<example id="example-76">
+<para id="element-76"><term>Problem : </term>Find volume of 0.2 N solution containing 2.5 meq of solute.
+</para>
+<para id="element-77">
+<term>Solution : </term> The gram equivalent is given by :
+</para>
+<para id="element-78">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>C</m:mi>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-79">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>C</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>meq</m:mtext>
+      <m:mi>N</m:mi>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>2.5</m:mn>
+      <m:mn>0.2</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>12.5</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>c</m:mi>
+    <m:mi>c</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+<example id="example-133">
+<para id="element-133"><term>Problem : </term> How many grams of wet NaOH containing 10% water are required to prepare 1 litre of 0.1 N solution.
+</para>
+<para id="element-134"><term>Solution : </term> We can determine amount of NaOH for preparation of 1 litre of 0.1 N solution by using normality relation :
+</para>
+<para id="element-135">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>g</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>q</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-136">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>q</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-137">
+The molecular weight of NaOH is 23+16+1= 40. Its valence factor is 1. Hence,
+</para>
+<para id="element-138">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>geq</m:mtext>
+        <m:mi>X</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mi>x</m:mi>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.1</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>40</m:mn>
+      </m:mrow>
+      <m:mn>1</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>4</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-139">
+But 100 gms of wet NaOH contain 88 gm NaOH. Applying unitary method, 4 gm of NaOH is present in wet NaOH given by :
+</para>
+<para id="element-140">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of wet NaOH</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>4</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>100</m:mn>
+      </m:mrow>
+      <m:mn>88</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>4.55</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+
+</example>
+<example id="example-122">
+<para id="element-122"><term>Problem : </term> Borax (<m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>7</m:mn>
+    </m:msub>
+    <m:mo>,</m:mo>
+    <m:mn>10</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>) is a strong base in aqueous solution. Hydroxyl ions are produced by ionic dissociation as  :
+
+</para>
+<para id="element-123"><m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:mi>N</m:mi>
+    <m:msup>
+      <m:mi>a</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>7</m:mn>
+    </m:msub>
+    <m:msup>
+      <m:mi/>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mo>-</m:mo>
+      </m:mrow>
+    </m:msup>
+    <m:mo>+</m:mo>
+    <m:mn>7</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>→</m:mo>
+    <m:mn>4</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>B</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>N</m:mi>
+    <m:msup>
+      <m:mi>a</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>O</m:mi>
+    <m:msup>
+      <m:mi>H</m:mi>
+      <m:mo>−</m:mo>
+    </m:msup>
+  </m:mrow>
+</m:math>
+</para>
+
+
+<para id="element-124">
+A solution of borax is prepared in water. The solution is completely neutralized with 50 ml of 0.1N HCl. Find the mass of borax in the solution. Consider atomic weight of boron 24 amu.
+</para>
+<para id="element-125"><term>Solution : </term> Applying gram equivalent concept,
+
+
+
+</para>
+<para id="element-126"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of borax</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of 50 ml 0.1N HCl</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-127"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of borax</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>50</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>5</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-128">Now, gram equivalent is connected to mass as :
+
+
+</para>
+<para id="element-129"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>q</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>x</m:mi>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-130">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>m</m:mi>
+        <m:mi>e</m:mi>
+        <m:mi>q</m:mi>
+        <m:mi>X</m:mi>
+        <m:mi>E</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>x</m:mi>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-131">Molecular weight of borax is 2X23 + 4X24 + 7X16 + 7X18 = 380. The valence factor of borax is 2 as one molecule of borax gives 2 hydroxyl ions. Putting values, we have,
+
+</para>
+<para id="element-132">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>5</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>380</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>2</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.95</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+ 
+</para>
+
+</example>
+
+<section id="section-4a">
+<title>Relation between normality and molarity</title>
+
+<para id="element-65">Normality is defined as :
+
+
+</para>
+<para id="element-66">
+
+</para>
+<para id="element-67">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Normality(N)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>geq</m:mtext>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mi>L</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+
+<para id="element-69">Substituting for gram equivalent,
+
+
+</para>
+<para id="element-70"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Normality(N)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mtext>geq</m:mtext>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mi>L</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mi>L</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-71">where “x” is valance factor. Now, molarity is defined as :
+
+
+</para>
+<para id="element-72">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mi>L</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-73">Note that we have used the convention that “M” represents molarity and “<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>O</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>” or subscripted symbol "<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:mi>N</m:mi>
+        <m:msub>
+          <m:mi>H</m:mi>
+          <m:mn>3</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+" represents molecular weight. Now, combining two equations, we have :
+
+</para>
+<para id="element-74">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mi>M</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-75"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Normality</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>valance factor</m:mtext>
+    <m:mi>X</m:mi>
+    <m:mtext>Molarity</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+
+</section>
+<section id="section-4b">
+<title>Combining solutions of different normality</title>
+<para id="element-80">Let us consider two solutions : 100 ml of 1 N <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and 50 ml of 0.5 N <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. What would be the normality if these two volumes of different normality are combined? 
+
+</para>
+<para id="element-81">In order to determine normality of the final solution, we need to find total milli-gram equivalents and total volume. Then, we can determine normality of the final solution by dividing total gram equivalents by total volume. Here,
+
+</para>
+<para id="element-82">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-83"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>50</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>25</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-84">
+Total meq is :
+</para>
+<para id="element-85"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>125</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-86">Now, important question is whether we can combine volumes as we have combined milli-gram equivalents. Milli equivalents can be combined as it measures quantity i.e. mass of solutes, which is conserved. Can we add volumes like mass? Density of 1N solution has to be different than that of 0.5N solution. We need to account for the density of the individual solution. It means that given volumes can not be added. However, concentrations of these solutions are low and so the difference in densities of solutions. As a simplifying measure for calculation, we can neglect the minor change in volume of the resulting solution. With this assumption,
+
+
+</para>
+<para id="element-87">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Total volume</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>50</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>150</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-88">The normality of the resulting solution is :
+
+
+</para>
+<para id="element-89">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>125</m:mn>
+      <m:mn>150</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>5</m:mn>
+      <m:mn>6</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.83</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+</section>
+<section id="section-4c">
+<title>Normality of combination of different acids </title>
+<para id="element-90">Normality is based on the concept of gram-equivalent, which, in turn, depends on equivalent weights. The equivalent weight, on the other hand, is obtained by dividing molecular weight by basicity. The basicity, in turn, is equal to numbers of furnishable hydrogen ions. We may conclude that gram equivalent is amount of acid per furnishable hydrogen ion. Thus, we can see combination of acids (like sulphuric and hydrochloric acids) in terms of their ability of furnishing hydrogen ions. What it means that we can add gram equivalents of two acids to find total gram equivalents and find normality of resulting solution.
+</para>
+<para id="element-91">We can extend the concept to basic solution as well. 
+</para>
+
+<example id="example-92">
+
+
+
+<para id="element-92"><term>Problem : </term> 500 ml of 0.5 N HCl is mixed with 20 ml of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> having density of 1.18 gm/cc and mass percentage of 10. Find the normality of resulting solution assuming volumes are additative.
+</para>
+<para id="element-93"><term>Solution : </term> Here, we first need to find normality of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> solution, whose density and mass percentage are given. Now, molarity of the solution is given as :
+
+</para>
+<para id="element-94">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>10</m:mn>
+        <m:mi>y</m:mi>
+        <m:mi>d</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>10</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>10</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfrac>
+      <m:mn>1.18</m:mn>
+      <m:mn>98</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>118</m:mn>
+    <m:mo>/</m:mo>
+    <m:mn>98</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1.2</m:mn>
+    <m:mi>M</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-95">
+Normality of sulphuric acid solution is :
+
+
+</para>
+<para id="element-96"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1.2</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>2.4</m:mn>
+    <m:mi>N</m:mi>
+  </m:mrow>
+</m:math>
+
+ 
+</para>
+<para id="element-97">
+We can now determine total gram equivalents and total volumes to determine the normality of resulting solution.
+</para>
+<para id="element-98"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>500</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>250</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-99"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>2.4</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>20</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>48</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-100">
+Total meq is :
+
+
+</para>
+
+<para id="element-101"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mtext>meq</m:mtext>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>250</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>48</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>298</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-102"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Total volume</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>500</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>20</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>520</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-103">The normality of the resulting solution is :
+
+
+</para>
+<para id="element-104">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>298</m:mn>
+      <m:mn>520</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.57</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section>
+</section>
+
+
+<para id="element-141">
+</para>
+<para id="element-142">
+</para>
+<para id="element-143">
+</para>
+<para id="element-144">
+</para>
+<para id="element-145">
+</para>
+<para id="element-146">
+</para>
+<para id="element-147">
+</para>
+<para id="element-148">
+</para>
+<para id="element-149">
+</para>
+<para id="element-150">
+</para>
+<para id="element-151">
+</para>
+<para id="element-152">
+</para>
+<para id="element-153">
+</para>
+<para id="element-154">
+</para>
+<para id="element-155">
+</para>
+<para id="element-156">
+</para>
+<para id="element-157">
+</para>
+<para id="element-158">
+</para>
+<para id="element-159">
+</para>
+<para id="element-160">
+</para>
+<para id="element-161">
+</para>
+<para id="element-162">
+</para>
+<para id="element-163">
+</para>
+<para id="element-164">
+</para>
+<para id="element-165">
+</para>
+<para id="element-166">
+</para>
+<para id="element-167">
+</para>
+<para id="element-168">
+</para>
+<para id="element-169">
+</para>
+<para id="element-170">
+</para>
+<para id="element-171">
+</para>
+<para id="element-172">
+</para>
+<para id="element-173">
+</para>
+<para id="element-174">
+</para>
+<para id="element-175">
+</para>
+<para id="element-176">
+</para>
+<para id="element-177">
+</para>
+<para id="element-178">
+</para>
+<para id="element-179">
+</para>
+<para id="element-180">
+</para>
+<para id="element-181">
+</para>
+<para id="element-182">
+</para>
+<para id="element-183">
+</para>
+<para id="element-184">
+</para>
+<para id="element-185">
+</para>
+<para id="element-186">
+</para>
+<para id="element-187">
+</para>
+<para id="element-188">
+</para>
+<para id="element-189">
+</para>
+<para id="element-190">
+</para>
+<para id="element-191">
+</para>
+ 
+  </content>
+  
+</document>

@@ -1,0 +1,2128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Titration</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f8084d12-bee8-47c5-ac64-78d6959b62ad</md:uuid>
+</metadata>
+  <content>
+<para id="element-1">Titration is an analytical laboratory method to determine concentration of a solution. It is based on volumetric stoichiometric analysis involving two or more solutions. In most of the cases, we shall refer aqueous solutions. Clearly, titration is limited to substances, which are soluble in some solvent (may be at a higher temperature). Further, scope of titration is wider than acid-base neutralization reactions. The redox reactions and other complex forming reactions are also studied using titration.
+
+</para>
+<para id="element-2">Completion of reaction (equivalence point) is determined using some technique that includes chemical indicators, potentiometer, pH meter and many other techniques. Sometimes, even the change in the color of reacting solution signals the end of titration. In the case of acid base reaction, chemical indicators like methyl orange or phenolphthalein are used to determine end point. These indicators changes color with the change in the pH of the solution. 
+
+</para>
+<para id="element-3">
+Some important terms or descriptions used in titration are :
+
+</para>
+<para id="element-4">
+<term>Titrant : </term>It is the standard solution whose concentration is known. It is placed in a thin cylindrical pipe called burette with fine measuring divisions to determine volume accurately. The titrant is streamed drop by drop into the flask containing reactant/ analyte.
+
+</para>
+<para id="element-5">
+<term>Reactant/ analyte : </term>It is the solution whose concentration is not known. Titration method is used to analyze this solution. An accurate volume of the reactant is kept in conical flask. The pH measuring techniques or devices are associated with reactant volume. If chemical indicator is used to identify end point, then very small amount of indicator (few drops) is mixed with the reactant.
+
+</para>
+<section id="section-1">
+<title> Acid base titration indicators</title>
+<para id="element-6">
+
+Acid base titration makes use of pH chemical indicators, which changes color in a band of pH values – not at a particular pH value. Typically, we use methyl orange and phenolphthalein to determine end points of acid-base titration. The selection of a particular indicator for the titration is decided on the basis of plot known as pH curve, which is typical of a particular reaction. The indicator is always added to the reactant in the flask. 
+</para>
+<section id="section-1a">
+<title> Methyl orange </title>
+<para id="element-7">Methyl orange is a weak base. It gives end points between pH range between 3.1 and 4.4. In weak acidic or basic environment (pH&gt;4.4), its color is yellow. In high acidic environment (pH&lt;3.1), it is red in color. In the detection range (pH : 3.1 to 4.4), its color is orange. The color changes from yellow to orange (when solution pH falls towards detection range) or red to orange (when solution pH rises towards detection range), indicating equivalence point. 
+
+</para>
+</section>
+
+<section id="section-1b">
+<title> Phenolphthalein</title>
+<para id="element-8">Phenolphthalein is a weak acid. It gives end points between pH range between 8.3 and 10. In strong acidic and weak basic environment (pH&lt;8.3), it is colorless. In strong basic environment (pH&gt;10), it is pink in color. In the detection range (pH : 8.8 to 10), its color is pale pink. The color changes from colorless to pale pink (when solution pH rises towards detection range) or from pink to pale pink (when solution pH falls towards detection range), indicating equivalence point.
+
+</para>
+</section>
+</section>
+<section id="section-2">
+<title> pH plots </title>
+
+<para id="element-9">The pH values are plotted against the volume of titrant (acid or base). Except for weak acid – weak base, there is a sharp change in pH value at the equivalence point. The plot is almost parallel to pH axis. The sharp range at equivalence point is due to the fact that pH itself is a logarithm function of hydrogen ion concentration. The gradual change away from equivalence point is explained on the basis of buffering effect of acid or base as the case be.
+
+</para>
+<section id="section-2a">
+<title> Strong acid – strong base</title>
+
+<para id="element-10">
+
+The reaction considered here is :
+</para>
+<para id="element-10a">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+
+<para id="element-10b">In the pH plot in which acid is titrant, pH of the solution in the flask is 14 due to strong base (NaOH). As strong acid is added, pH is almost flat till the equivalence point volume, when there is sharp drop in pH value. The extent of drop or rise depends on the reaction rate, which is very fast for strong acid- strong base reaction. The pH drop at equivalence point can induce color change in either of two indicators as drop in pH covers color change range for two indicators.
+</para>
+
+<para id="element-11">
+<figure orient="horizontal" id="fig-11">
+<title> pH plots </title>
+<subfigure id="fig-11a">
+<media id="idp3930976" alt=""><image src="../../media/t1.gif" mime-type="image/gif"/></media>
+<caption> Acid is titrant. </caption>
+</subfigure>
+<subfigure id="fig-11b">
+<media id="idp2871360" alt=""><image src="../../media/t2.gif" mime-type="image/gif"/></media>
+<caption> Base is titrant </caption>
+</subfigure>
+</figure>
+</para>
+<para id="element-12">In the pH plot in which base is titrant, pH of the solution in the flask is near zero due to strong acid (HCl). As strong base is added, pH is almost flat in the beginning till the equivalence point volume, when there is sharp rise in pH value. The pH increase at equivalence point can induce color change in either of two indicators as rise in pH covers color change range for two indicators.
+
+</para>
+<para id="element-13">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of HCl used</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>volume acid required for neutralization of NaOH</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-14">
+This means that :
+
+</para>
+<para id="element-15">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of NaOH (indicator : methyl orange or phenolphthalein)</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+<section id="section-2b">
+<title> Strong acid – weak base </title>
+<para id="element-16"> 
+
+The reaction considered here is :
+</para>
+<para id="element-17"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-18">In the pH plot in which acid is titrant, pH of the solution in the flask is about 11 due to weak base (<m:math>
+		<m:mrow>
+			<m:mi>N</m:mi>
+			<m:msub>
+				<m:mi>H</m:mi>
+				<m:mn>4</m:mn>
+			</m:msub>
+			<m:mi>O</m:mi>
+			<m:mi>H</m:mi>
+		</m:mrow>
+	</m:math>
+). As strong acid (HCl) is added, pH drops gently till the equivalence point volume. The extent of drop in pH is lesser in comparison to strong acid - strong base reaction as reaction rate is relatively slower. The pH drop at equivalence point is shorter and can induce color change in methyl orange only. 
+</para>
+<para id="element-19">
+<figure orient="horizontal" id="fig-19">
+<title> pH plots </title>
+<subfigure id="fig-19a">
+<media id="idp4610272" alt=""><image src="../../media/t3.gif" mime-type="image/gif"/></media>
+<caption> Acid is titrant. </caption>
+</subfigure>
+<subfigure id="fig-19b">
+<media id="idp7702288" alt=""><image src="../../media/t4.gif" mime-type="image/gif"/></media>
+<caption> Base is titrant </caption>
+</subfigure>
+</figure>
+</para>
+<para id="element-20"> In the pH plot in which base is titrant, pH of the solution in the flask is near zero due to strong acid (HCl). As weak base is added, pH is almost flat in the beginning till the equivalence point volume, when there is sharp rise in pH value. The pH rise at equivalence point is shorter and can induce color change in methyl oranage only.
+</para>
+<para id="element-21"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of HCl used</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>volume acid required for neutralization of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-22"> This means that :
+</para>
+<para id="element-23"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of NH4OH (indicator : methyl orange)</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+<section id="section-2c">
+<title> Weak acid – strong base </title>
+
+<para id="element-25"> The reaction considered here is :
+</para>
+<para id="element-26"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-27">In the pH plot in which acid is titrant, pH of the solution in the flask is about 14 due to strong base (NaOH). As weak acid (HCl) is added, pH drops gently till the equivalence point volume. The extent of drop in pH is lesser in comparison to strong acid - strong base reaction as reaction rate is relatively slower. The pH drop at equivalence point is shorter and can induce color change in phenolphthalein only. 
+</para>
+<para id="element-28"> 
+<figure orient="horizontal" id="fig-28">
+<title> pH plots </title>
+<subfigure id="fig-28a">
+<media id="idp4902272" alt=""><image src="../../media/t5.gif" mime-type="image/gif"/></media>
+<caption> Acid is titrant. </caption>
+</subfigure>
+<subfigure id="fig-28b">
+<media id="idm876272" alt=""><image src="../../media/t6.gif" mime-type="image/gif"/></media>
+<caption> Base is titrant </caption>
+</subfigure>
+</figure>
+</para>
+<para id="element-29"> In the pH plot in which base is titrant, pH of the solution in the flask is near 2-3 due to weak acid (
+<m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+  </m:mrow>
+</m:math>
+). As strong base is added, pH is rises in the beginning till the equivalence point volume, when there is sharp rise in pH value. The pH rise at equivalence point is shorter and can induce color change in phenolphthalein only.
+</para>
+<para id="element-30">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mspace width="1em"/>
+    <m:mtext>used</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>volume acid required for neutralization of NaOH</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-31">
+This means that :
+</para>
+<para id="element-32">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of NaOH (indicator : phenolphthalein)</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+<section id="section-2d">
+<title> Weak acid – weak base </title>
+
+<para id="element-33">
+The reaction considered here is :
+</para>
+<para id="element-34">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-35">
+There is no sharp change in pH value at equivalence point. The pH value is approximately 7 at equivalence. In this case, there is only a point of inflexion (against extended vertical shift in pH value as observed in earlier cases), which can be detected with confidence.
+
+</para>
+</section>
+</section>
+<section id="section-3">
+<title> Two stage titration </title>
+
+<para id="element-36">
+
+Few reactions are completed in two stages. Corresponding to each stage, there is an equivalence point. We need to employ suitable indicator to identify completion of individual reaction. We decide selection of the indicator based on the range of pH change at equivalence volume of the titrant. 
+
+</para>
+<section id="section-3a">
+<title> Sodium carbonate and hydrochloric acid </title>
+<para id="element-37">The reaction is completed in two stages. The first stage reaction is :
+
+</para>
+<para id="element-38">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-39">Considering that HCl is the titrant, we see that sodium bicarbonate is intermediate product, which is itself a basic salt. It means that pH value remains in basic range above 7. The equivalence volume of acid corresponds to formation of sodium bicarbonate. Clearly, phenolphthalein can detect the drop of pH value at equivalence. However, this detection will not correspond to complete titration of sodium carbonate as sodium bicarbonate is further acted on by the acid according to the second stage reaction as given here :  
+</para>
+<para id="element-40">
+<figure id="fig-40">
+<title> pH plot </title>
+<media id="idp3025776" alt=""><image src="../../media/t7.gif" mime-type="image/gif"/></media>
+<caption> Acid is titrant.</caption>
+</figure>
+</para>
+<para id="element-41">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>→</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>a</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>g</m:mi>
+        <m:mi>a</m:mi>
+        <m:mi>s</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>l</m:mi>
+        <m:mi>i</m:mi>
+        <m:mi>q</m:mi>
+      </m:mrow>
+    </m:mfenced>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-42">
+The important aspect of this reaction is that carbon dioxide is acidic and as such pH of the solution further goes down. On the completion of reaction, there is sharp drop in pH value which falls within the range of color change of methyl orange. Thus, methyl orange detects the completion of reaction of sodium carbonate with hydrochloric acid.
+</para>
+<para id="element-43">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>(indicator : methyl orange)</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-44">It is clear from the description that phenolphthalein can not detect completion of reaction of acid with sodium carbonate. There is, however, an interesting aspect about the equivalence volumes involved in two stages of reaction. The first equivalence volume (25 ml) is exactly half of the second equivalence volume (50 ml). We can conclude that first equivalence volume with phenolphthalein gives exactly half of the reaction with sodium carbonate. 
+
+</para>
+<para id="element-45">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>(indicator : methyl orange)</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-46">This is how phenolphthalein can also be used to estimate sodium carbonate concentration – even though it does not detect completion of the reaction. It should also be emphasized that neutralization of sodium bicarbonate is detected by methyl orange - not by phenolphthalein. We may conclude that phenolphthalein can not detect neutralization of sodium bicarbonate.
+
+</para>
+</section>
+<section id="section-3b">
+<title> Oxalic acid sodium hydroxide </title>
+
+<para id="element-48">
+The reaction involved here is also completed in two stages. Oxalic acid has two furnishable hydrogen ions. Two hydrogen ions are replaced one after other in two stages :
+
+</para>
+<para id="element-49">
+<m:math display="block">
+  <m:mrow>
+    <m:msubsup>
+      <m:mo>|</m:mo>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>H</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>H</m:mi>
+      </m:mrow>
+    </m:msubsup>
+    <m:mo>+</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mo>→</m:mo>
+    <m:msubsup>
+      <m:mo>|</m:mo>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>H</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>N</m:mi>
+        <m:mi>a</m:mi>
+      </m:mrow>
+    </m:msubsup>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-49a">
+<m:math display="block">
+  <m:mrow>
+    <m:msubsup>
+      <m:mo>|</m:mo>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>H</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>N</m:mi>
+        <m:mi>a</m:mi>
+      </m:mrow>
+    </m:msubsup>
+    <m:mo>+</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mo>→</m:mo>
+    <m:msubsup>
+      <m:mo>|</m:mo>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>N</m:mi>
+        <m:mi>a</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>O</m:mi>
+        <m:mi>N</m:mi>
+        <m:mi>a</m:mi>
+      </m:mrow>
+    </m:msubsup>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-50">
+<figure id="fig-50">
+<title> pH plot </title>
+<media id="idp4541232" alt=""><image src="../../media/t8.gif" mime-type="image/gif"/></media>
+<caption> Base is titrant.</caption>
+</figure>
+</para>
+<para id="element-51">Considering that sodium hydrooxide is titrant, we see that one of two hydrogens of oxalic acid is replaced by sodium in the first stage. It can be seen that methyl orange can detect the rise of pH value at equivalence at the end of first stage reaction. On the other hand, completion of second stage reaction is detected by  phenolphthalein. Following earlier logic, we conclude :
+</para>
+<para id="element-52">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of NaOH</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of oxalic acid (indicator : phenolphthalein)</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-53"><m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of NaOH</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mtext>geq of oxalic acid (indicator : methyl orange)</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+
+</section>
+</section>
+
+<section id="section-4">
+<title> Titrating basic mixtures</title>
+<para id="element-54">We can titrate mixtures basic compounds with strong acid like HCl. Consider the combination of bases :
+
+</para>
+<para id="element-55">
+
+<term>1: </term>	<m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mi>H</m:mi>
+    <m:mspace width="1em"/>
+    <m:mtext>and</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-55a">
+
+<term>2: </term>	<m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>and</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+
+<section id="section-4a">
+<title> Mixture of sodium hydro-oxide and sodium carbonate </title>
+
+
+<para id="element-56">
+
+The analysis depends on the particular indicator used. If we use methyl orange, then we know that it can detect completion of reaction of HCl with either of two basic compounds. Hence,
+
+
+</para>
+<para id="element-57">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of HCl used</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>volume acid required for neutralization of NaOH and</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-58">
+This means that :
+
+</para>
+<para id="element-59">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of NaOH</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mtext> (indicator : methyl orange)</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-60">
+If we use phenolphthalein, then we know that it can detect completion of reaction of HCl with NaOH. However, it can detect only half of the completion of reaction of HCl with sodium carbonate.
+</para>
+<para id="element-61">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of HCl used</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>volume acid required for neutralization of NaOH</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mtext>volume acid required for neutralization of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-62">
+This means that :
+
+</para>
+<para id="element-63">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of NaOH</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mtext>(indicator : phenolphthalein)</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-64">
+Q. A volume of 25 ml of 0.2 N HCl is titrated to completely neutralize 25 ml mixture of NaOH and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+, using phenolphthalein as indicator. On the other hand, 60 ml of 0.1 N HCl is required to neutralize the equal volume of mixture, using methyl orange as indicator. Find the strengths of NaOH and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> in the mixture.
+</para>
+<para id="element-65">
+Answer : Strength is expressed in terms of gm/litre. Thus, we need to know the mass of each component in the mixture. First titration uses phenolphthalein, which detects completion of reaction with NaOH and half of reaction with <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. Hence,
+
+
+</para>
+<para id="element-66">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of acid</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of NaOH</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-67">
+Clearly, it is helpful to assume unknowns in terms of milli-equivalents (meq) instead of mass. Once, meq are calculated, we convert the same finally in mass terms and strength of solution as required. Let x and y be the meq of NaOH and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> in the mixture.
+
+
+</para>
+<para id="element-68">
+Putting values in the equation, we have :
+
+</para>
+<para id="element-69">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>y</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-70"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>5</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-71">
+Second titration uses methyl orange, which detects completion of reaction with both  NaOH and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. Hence,
+
+</para>
+<para id="element-72">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of acid</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of NaOH</m:mtext>
+    <m:mo>+</m:mo>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-73">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>y</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-74"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>60</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>6</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-75"> Solving two equations (subtracting first from second equation), we have 
+
+
+</para>
+<para id="element-76">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-77"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-78">
+and
+
+</para>
+<para id="element-79">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>6</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>2</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>4</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-80">Now, we need to convert meq into strength of solution. For that, we first convert meq to mass of solute (B) in gram.
+
+</para>
+<para id="element-81">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>valence factor</m:mtext>
+    <m:mi>X</m:mi>
+    <m:mtext>milli-moles</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-82">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>valence factor</m:mtext>
+        <m:mi>X</m:mi>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mn>1000</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-83">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>valence factor</m:mtext>
+        <m:mi>X</m:mi>
+        <m:mn>1000</m:mn>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-84">
+Thus, strength of component in 25 ml solution is :
+
+</para>
+<para id="element-85">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>S</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mn>1000</m:mn>
+      </m:mrow>
+      <m:mn>25</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+        <m:mi>X</m:mi>
+        <m:mn>1000</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mi>X</m:mi>
+        <m:mtext>valence factor</m:mtext>
+        <m:mi>X</m:mi>
+        <m:mn>1000</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mi>X</m:mi>
+        <m:mtext>valence factor</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-86">
+Putting values, strength of NaOH is :
+
+</para>
+<para id="element-87">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>S</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mi>X</m:mi>
+        <m:mtext>valence factor</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>40</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>4</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>6.4</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>/</m:mo>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-88">Similarly, strength of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is :
+
+</para>
+<para id="element-89">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>S</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mi>X</m:mi>
+        <m:mtext>valence factor</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>106</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>4</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>2</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>4.24</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>/</m:mo>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+
+<section id="section-4b">
+<title> Mixture of sodium bicarbonate and sodium carbonate </title>
+
+
+<para id="element-90">
+
+The analysis again depends on the particular indicator used. If we use methyl orange, then we know that it can detect completion of reaction of HCl with either of two basic compounds. Hence,
+
+</para>
+<para id="element-91">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of HCl used</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>volume acid required for neutralization of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>and</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-92">
+This means that :
+
+</para>
+<para id="element-93">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mtext>(indicator : methylorange)</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-94">
+If we use phenolphthalein, then we know that it can detect one half of completion of reaction of HCl with <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. However, it can not detect completion of reaction of HCl with <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+.
+
+</para>
+<para id="element-95"><m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of HCl used</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mtext>volume of acid required for neutralization of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-96">
+This means that :
+</para>
+<para id="element-97">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>geq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mtext>geq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mtext>(indicator : phenolphthalein)</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-98">
+Q. A volume of 40 ml of 0.1 N HCl is titrated to completely neutralize 25 ml of basic solution containing <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+, using methyl orange as indicator. On the other hand, 15 ml of 0.1 N HCl is required to neutralize equal volume of basic solution, using phenolphthalein as indicator. Find the strength of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ in the solution.
+
+</para>
+<para id="element-99">
+Answer : First titration uses methyl orange, which detects completion of reaction with both <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+. Hence,
+
+</para>
+<para id="element-100">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of acid</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-101">
+Let x and y be the meq of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ in the mixture. Putting values in the equation, we have :
+
+</para>
+<para id="element-102">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>y</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-103">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>40</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>4</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-104">
+Second titration uses phenolphthalein, which detects completion of half reaction with <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. It does not detect completion of reaction with respect to NaHCO3. Hence,
+
+</para>
+<para id="element-105">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of acid</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-106">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mi>a</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>x</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-107">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>15</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1.5</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-108">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-109">
+Putting in the first equation, we have 
+
+</para>
+<para id="element-110">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>4</m:mn>
+    <m:mo>-</m:mo>
+    <m:mn>3</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-111">
+Now, we need to convert meq into strength of solution. Using formula as derived earlier,
+</para>
+<para id="element-112">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>S</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>valence factor</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-113">
+Putting values, strength of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:msub>
+      <m:mi>a</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is :
+
+</para>
+<para id="element-114"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>S</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>valence factor</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>106</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>3</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>2</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>6.36</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>/</m:mo>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-115">
+Similarly, strength of <m:math>
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+ is :
+
+</para>
+<para id="element-116">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>S</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>meq</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+        <m:mi>X</m:mi>
+        <m:mtext>valence factor</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>84</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>25</m:mn>
+        <m:msub>
+          <m:mi>X</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>3.36</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>/</m:mo>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</section>
+</section>
+
+  
+
+  </content>
+  
+</document>

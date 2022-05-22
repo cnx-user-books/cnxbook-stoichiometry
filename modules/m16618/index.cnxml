@@ -1,0 +1,1540 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Molal concentration</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>57f047c6-35c5-4dc5-8ce3-7679d29d9a65</md:uuid>
+</metadata>
+  <content>
+<para id="element-1">Molality (m) is also a measurement of molar concentration like molarity (M). We have seen that molarity(M) is a convenient measurement of the concentration of solution as it allows us to directly compute moles of solute present in the solution. There is, however, a problem in reporting concentration of a solution in terms of molarity. Recall that it is equal to numbers of moles of solute divided by volume of solution in litres. The molar ratio has volume of the solution in the denominator. This means that molarity(M) of a given solution will change with temperature as volume of solution will change with temperature. This is a major handicap as reported concentration needs to be reliable and constant anywhere irrespective of temperature. In this backdrop, molality(m) is measurement of concentration aiming to remove this shortcoming associated with measurement in molarity (M).  
+
+
+
+
+
+</para>
+
+<para id="element-2">Molality(m) also differs to other measurements in yet another important aspect. It involves the ratio of measurement of solute and solvent – not that of solute and solution. This difference is important to be kept in mind while computing quantities and converting measurement units from one to another.
+
+</para>
+<para id="element-3">
+The major objective of this module is to develop skills to convert measurement of concentration from one measurement type to another.
+</para>
+
+<para id="element-4">Molality of a solution with respect to solute is defined as :
+</para>
+<para id="element-5"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Molality(m)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Moles of solute (B)</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Mass of solvent (A) in Kg</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-6"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>w</m:mi>
+          <m:mi>Akg</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+ 
+</para>
+<para id="element-7">
+Its unit is moles/ kg. In case we consider mass of solvent in gm, then the expression of molality is given as :
+
+</para>
+<para id="element-8"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Milli-moles of B</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-9">If mass of solvent of a solution of known molality is known, then number of moles of solute is obtained as :
+
+ 
+</para>
+<para id="element-10"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Moles of solute, B</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>Molality</m:mtext>
+    <m:mi>X</m:mi>
+    <m:mtext>Mass of solvent in kg</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-11">
+Similarly, 
+
+
+</para>
+<para id="element-12"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Milli-moles of B</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>Molality</m:mtext>
+    <m:mi>X</m:mi>
+    <m:mtext>Mass of solvent (A) in gm</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<example id="example-13">
+<para id="element-13"><term>Problem : </term> 11.7 gm of sodium chloride is dissolved in 400 ml of water. Find molality of the solution.
+</para>
+<para id="element-14"><term>Solution : </term> Here,
+</para>
+<para id="element-15">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Moles of sodium chloride</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>11.7</m:mn>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>23</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>35.5</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>11.7</m:mn>
+      <m:mn>58.5</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-16">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of the solvent</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>400</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>400</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.4</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>k</m:mi>
+    <m:mi>g</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-17">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Molality, m</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>0.2</m:mn>
+      <m:mn>0.4</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+
+<section id="section-1">
+<title>Molality in terms of molarity and density of solution</title>
+<para id="element-18">Molality and Molarity are linked to each other through density of solution. Beginning with the definition of molarity, a solution of molarity “M” means that 1 litre of solution contains “M” moles of solute. If the density of the solution is “d” in gm/cc, then 
+
+
+
+</para>
+<para id="element-19"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of 1 litre solution in gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1000</m:mn>
+    <m:mi>d</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-20"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of the solute in gm in 1 litre solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>nos of moles</m:mtext>
+    <m:mi>X</m:mi>
+    <m:mtext>molecular weight</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>O</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-21"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of the solvent in gm in 1 litre solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1000</m:mn>
+    <m:mi>d</m:mi>
+    <m:mo>−</m:mo>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>O</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-893">We need to calculate mass of solvent in kg to calculate molality(m) :</para><para id="element-22"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of the solvent in kg in 1 litre solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mrow>
+      <m:mfenced>
+        <m:mrow>
+          <m:mn>1000</m:mn>
+          <m:mi>d</m:mi>
+          <m:mo>−</m:mo>
+          <m:mi>M</m:mi>
+          <m:msub>
+            <m:mi>M</m:mi>
+            <m:mi>O</m:mi>
+          </m:msub>
+        </m:mrow>
+      </m:mfenced>
+    </m:mrow>
+    <m:mo>/</m:mo>
+    <m:mn>1000</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-23">Hence, molality,
+
+
+</para>
+<para id="element-24"><m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>W</m:mi>
+          <m:mi>Akg</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+        <m:mi>M</m:mi>
+        <m:mrow>
+      <m:mfrac>
+        <m:mrow>
+          <m:mn>1000</m:mn>
+          <m:mi>d</m:mi>
+          <m:mo>−</m:mo>
+          <m:mi>M</m:mi>
+          <m:msub>
+            <m:mi>M</m:mi>
+            <m:mi>O</m:mi>
+          </m:msub>
+        </m:mrow>
+      <m:mn>1000</m:mn>
+      </m:mfrac>
+        </m:mrow>
+
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>M</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>d</m:mi>
+        <m:mo>−</m:mo>
+        <m:mi>M</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-25">We should note that "density of solution (d)" and "strength of solution (S)" differ. Density of solution (d) is ratio of mass of solution (solute + solvent) in gm and volume of solution in cc. It has the unit of gm/cc. On the other hand, strength of solution (S) is ratio of mass of solute in gm and volume of solution in litre. It has the unit of gm/litre.
+</para>
+<example id="example-26">
+
+<para id="element-26"><term>Problem : </term> The density of 3M sodium thiosulphate (Na2S2O3) solution is 1.25 gm/cc. Calculate molality of 
+<m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mi>Na</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+  </m:mrow>
+</m:math>
+
+
+ and <m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:msup>
+        <m:mn>3</m:mn>
+        <m:mrow>
+          <m:mo>−</m:mo>
+          <m:mo>−</m:mo>
+        </m:mrow>
+      </m:msup>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+ ions.
+</para>
+<para id="element-27"><term>Solution : </term> We can use the formula to calculate molality of the sodium thiosulphate :
+
+
+</para>
+<para id="element-28">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>M</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>d</m:mi>
+        <m:mo>−</m:mo>
+        <m:mi>M</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>3</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1.25</m:mn>
+        <m:mo>−</m:mo>
+        <m:mn>3</m:mn>
+        <m:mi>X</m:mi>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>23</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>32</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-29">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>3000</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1250</m:mn>
+        <m:mo>−</m:mo>
+        <m:mn>474</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>3000</m:mn>
+      <m:mn>776</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>3.866</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-30"><term>Alternatively</term>, we can proceed with the basic consideration in place of using formula Since molarity of solution is 3M, it means that 1 litre of solution contains 3 moles of sodium thiosulphate. We can use density to find the mass of the 1 litre solvent.
+
+</para>
+
+
+
+<para id="element-31">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1000</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1.25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1250</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-32">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of 3 moles of sodium thiosulphate</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:mi>N</m:mi>
+        <m:msub>
+          <m:mi>a</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>3</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>23</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>32</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>3</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>16</m:mn>
+      </m:mrow>
+    </m:mfenced>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-33">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of 3 moles of sodium thiosulphate</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>46</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>64</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>48</m:mn>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>158</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>474</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-34">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of solvent</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1250</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>474</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>776</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.776</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>k</m:mi>
+    <m:mi>g</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-35">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Molality of sodium thiosulphate</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>3</m:mn>
+      <m:mn>0.776</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>3.866</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-36">
+We are, however, required to calculate molality of ions. We see that one mole is equivalent to 2 moles of sodium ion and 1 mole of thiosulphate ion :
+
+</para>
+<para id="element-37">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>Na</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>N</m:mi>
+    <m:msup>
+      <m:mi>a</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:msup>
+        <m:mn>3</m:mn>
+        <m:mrow>
+          <m:mo>−</m:mo>
+          <m:mo>−</m:mo>
+        </m:mrow>
+      </m:msup>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-38">
+Hence,
+
+
+</para>
+<para id="element-39"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Molality of </m:mtext>
+
+    <m:msup>
+      <m:mi>Na</m:mi>
+      <m:mo>+</m:mo>
+    </m:msup>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>3.866</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>7.732</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-40"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Molality of </m:mtext>
+    <m:msub>
+      <m:mi>S</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:msup>
+        <m:mn>3</m:mn>
+        <m:mrow>
+          <m:mo>−</m:mo>
+          <m:mo>−</m:mo>
+        </m:mrow>
+      </m:msup>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>3.866</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+
+</section>
+
+<section id="section-2">
+<title>Density of solution in terms of molarity and molality
+</title>
+
+<para id="element-41">
+Working on the relation of molality developed in previous section :
+</para>
+<para id="element-42">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>M</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>d</m:mi>
+        <m:mo>−</m:mo>
+        <m:mi>M</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-43">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mi>m</m:mi>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>d</m:mi>
+        <m:mo>−</m:mo>
+        <m:mi>M</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>M</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>d</m:mi>
+      <m:mi>M</m:mi>
+    </m:mfrac>
+    <m:mo>−</m:mo>
+    <m:mfrac>
+      <m:msub>
+        <m:mi>M</m:mi>
+        <m:mi>O</m:mi>
+      </m:msub>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-44">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>d</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>M</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mfrac>
+          <m:mn>1</m:mn>
+          <m:mi>m</m:mi>
+        </m:mfrac>
+        <m:mo>+</m:mo>
+        <m:mfrac>
+          <m:msub>
+            <m:mi>M</m:mi>
+            <m:mi>O</m:mi>
+          </m:msub>
+          <m:mn>1000</m:mn>
+        </m:mfrac>
+      </m:mrow>
+    </m:mfenced>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<example id="example-45">
+<para id="element-45"><term>Problem : </term> The molality and molarity of a solution of sulphuric acid are 90 and 10 respectively Determine density of the solution.
+
+</para>
+<para id="element-46">
+<term>Solution : </term> Using relation :
+
+
+</para>
+<para id="element-47">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>d</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>M</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mfrac>
+          <m:mn>1</m:mn>
+          <m:mi>m</m:mi>
+        </m:mfrac>
+        <m:mo>+</m:mo>
+        <m:mfrac>
+          <m:msub>
+            <m:mi>M</m:mi>
+            <m:mi>O</m:mi>
+          </m:msub>
+          <m:mn>1000</m:mn>
+        </m:mfrac>
+      </m:mrow>
+    </m:mfenced>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-48">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>d</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>10</m:mn>
+    <m:mfenced>
+      <m:mrow>
+        <m:mfrac>
+          <m:mn>1</m:mn>
+          <m:mn>90</m:mn>
+        </m:mfrac>
+        <m:mo>+</m:mo>
+        <m:mfrac>
+          <m:mn>98</m:mn>
+          <m:mn>1000</m:mn>
+        </m:mfrac>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mn>10</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>0.011</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>0.98</m:mn>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mn>10</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>0.991</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>9.91</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>/</m:mo>
+    <m:mi>c</m:mi>
+    <m:mi>c</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+
+</example>
+</section>
+<section id="section-3">
+<title>Molality in terms of density of solution and strength of solution</title>
+<para id="element-49">We need to know the moles of solute and mass of solvent in kg to determine molality. Now, strength of solution (S)  is equal to mass of the solute in gm in 1 litre of solution. Hence,</para>
+
+
+<para id="element-52">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of the solute in gm in 1 litre of solution</m:mtext>
+    <m:mo>=</m:mo>
+          <m:mi>S</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-53">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Moles of the solute</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>S</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-286"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of 1 litre solution in gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1000</m:mn>
+    <m:mi>d</m:mi>
+  </m:mrow>
+</m:math></para><para id="element-54">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of the solvent in gm in 1 litre of solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1000</m:mn>
+    <m:mi>d</m:mi>
+    <m:mo>−</m:mo>
+    <m:mi>S</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-55">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>Mass of the solvent in kg in 1 litre of solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1000</m:mn>
+            <m:mi>d</m:mi>
+            <m:mo>−</m:mo>
+            <m:mi>S</m:mi>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-56">The molality is :
+
+
+</para>
+<para id="element-57"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>W</m:mi>
+          <m:mi>Akg</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mfrac>
+          <m:mi>S</m:mi>
+          <m:mrow>
+            <m:msub>
+              <m:mi>M</m:mi>
+              <m:mi>O</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:mfrac>
+      </m:mrow>
+      <m:mrow>
+        <m:mfrac>
+          <m:mrow>
+            <m:mfenced>
+              <m:mrow>
+                <m:mn>1000</m:mn>
+                <m:mi>d</m:mi>
+                <m:mo>−</m:mo>
+                <m:mi>S</m:mi>
+              </m:mrow>
+            </m:mfenced>
+          </m:mrow>
+          <m:mn>1000</m:mn>
+        </m:mfrac>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>S</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1000</m:mn>
+            <m:mi>d</m:mi>
+            <m:mo>−</m:mo>
+            <m:mi>S</m:mi>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<example id="example-58">
+
+<para id="element-58"><term>Problem : </term>  A solution has 392 gm of sulphuric acid per litre of solution. If the density of the solution is 1.25 gm/cc, find molality of the solution.
+</para>
+<para id="element-59"><term>Solution : </term> Using relation : 
+</para>
+<para id="element-60">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>S</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1000</m:mn>
+            <m:mi>d</m:mi>
+            <m:mo>−</m:mo>
+            <m:mi>S</m:mi>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>392</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>98</m:mn>
+        <m:mi>X</m:mi>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1000</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>1.25</m:mn>
+            <m:mo>−</m:mo>
+            <m:mn>392</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>4.73</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+  
+</para>
+</example>
+</section>
+<section id="section-4">
+<title>Molality in terms of mole fraction and molecular weight</title>
+<para id="element-61">Molality is defined as :
+</para>
+<para id="element-62">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>W</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+            <m:mi>k</m:mi>
+            <m:mi>g</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-63">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mrow>
+      <m:msub>
+        <m:mi>n</m:mi>
+        <m:mi>B</m:mi>
+      </m:msub>
+    </m:mrow>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>m</m:mi>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-64">
+On the other hand, mole fraction with respect to solute B is given by :
+
+
+</para>
+<para id="element-65">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>χ</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+        <m:mo>+</m:mo>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-66">Substituting for nA, we have :
+</para>
+<para id="element-67">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>χ</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mfrac>
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:msub>
+              <m:mi>n</m:mi>
+              <m:mrow>
+                <m:mi>A</m:mi>
+              </m:mrow>
+            </m:msub>
+            <m:msub>
+              <m:mi>M</m:mi>
+              <m:mrow>
+                <m:mi>A</m:mi>
+              </m:mrow>
+            </m:msub>
+          </m:mrow>
+          <m:mn>1000</m:mn>
+        </m:mfrac>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+        <m:mo>+</m:mo>
+        <m:mfrac>
+          <m:mrow>
+            <m:mi>m</m:mi>
+            <m:msub>
+              <m:mi>n</m:mi>
+              <m:mrow>
+                <m:mi>A</m:mi>
+              </m:mrow>
+            </m:msub>
+            <m:msub>
+              <m:mi>M</m:mi>
+              <m:mrow>
+                <m:mi>A</m:mi>
+              </m:mrow>
+            </m:msub>
+          </m:mrow>
+          <m:mn>1000</m:mn>
+        </m:mfrac>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>m</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mo>+</m:mo>
+        <m:mi>m</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-68">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>1000</m:mn>
+    <m:msub>
+      <m:mi>χ</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>m</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:msub>
+      <m:mi>χ</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mi>m</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-69">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>1</m:mn>
+        <m:mo>−</m:mo>
+        <m:msub>
+          <m:mi>χ</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mn>1000</m:mn>
+    <m:msub>
+      <m:mi>χ</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-70">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:msub>
+          <m:mi>χ</m:mi>
+          <m:mrow>
+            <m:mi>B</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1</m:mn>
+            <m:mo>−</m:mo>
+            <m:msub>
+              <m:mi>χ</m:mi>
+              <m:mi>B</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:mfenced>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>A</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-71">Similarly, we can express molality in terms of mole fraction with respect to solvent (A) as :
+
+
+</para>
+<para id="element-72">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1</m:mn>
+            <m:mo>−</m:mo>
+            <m:msub>
+              <m:mi>χ</m:mi>
+              <m:mi>A</m:mi>
+            </m:msub>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>χ</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>A</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-73">
+</para>
+
+</section>
+  </content>
+  
+</document>

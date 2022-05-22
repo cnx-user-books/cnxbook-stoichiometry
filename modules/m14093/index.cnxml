@@ -1,0 +1,1750 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Mole concept</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b7eb340f-17cf-40da-af0e-7fd9f1c27f6c</md:uuid>
+</metadata>
+  <content>
+<para id="element-1">Stoichiometry is a branch of chemistry which deals with quantitative relationships of the reactants and products in a chemical reaction. The quantity of substance involved in measurement has different states (solid, liquid and gas) and forms (mixture and compound).
+                                   
+
+</para>
+<para id="element-2">
+The stoichiometry calculations are basically arithmetic calculations, but confounded by scores of measuring terminologies. These terms are required to represent atomic or molecular level of association involved in chemical reactions. Besides chemical substance reacts or combines in definite proportion which we account by valence factor. Corresponding to valence factor, there are measurements which measures the proportion in which one element or group of elements reacts or combines with another element or group of elements. 
+
+</para>
+<para id="element-3">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mi>A</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>y</m:mi>
+    <m:mi>B</m:mi>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mi>x</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mi>y</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-4">A good part of stoichiometry is about mastering measuring terms. In this module, we seek to have a clear idea of mole and associated concept which is central to stoichiometry calculation. 
+</para>
+<section id="section-1">
+<title>Moles</title>
+
+
+
+<para id="element-5">Moles measure quantity of substance. There is a subtle ambiguity about treating “moles” – whether as “mass” or “number”. We take the position that it measures “amount of substance”, which can be either be expressed in terms of mass or in terms of numbers. The two approaches are equivalent and need not be a source of ambiguity any further. We only need to interpret the meaning as appropriate in a particular context.
+</para>
+<para id="element-6">One mole is defined as <m:math>
+		<m:mrow>
+			<m:msub>
+				<m:mi>N</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:mrow>
+	</m:math> entities of the substance, where <m:math>
+		<m:mrow>
+			<m:msub>
+				<m:mi>N</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:mrow>
+	</m:math> is equal to Avogadro’s number. <m:math>
+		<m:mrow>
+			<m:msub>
+				<m:mi>N</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:mrow>
+	</m:math> is generally taken as <m:math>
+		<m:mrow>
+			<m:mn>6.022</m:mn>
+			<m:mi>X</m:mi>
+			<m:msup>
+				<m:mn>10</m:mn>
+				<m:mrow>
+					<m:mn>23</m:mn>
+				</m:mrow>
+			</m:msup>
+		</m:mrow>
+	</m:math>. If need be, then we may use still closer approximation of this number. 
+
+</para>
+
+<section id="section-1a">
+<title>Relation between Mole and Molecular weight</title>
+
+<para id="element-7">
+
+The mole and molecular weight are designed to be related. Argument goes like this :
+
+
+
+
+</para>
+<para id="element-8"><term>1: </term> Molecular weight is arithmetic sum of atomic weights of constituent atoms.
+
+
+</para>
+<para id="element-9"><term>2: </term> Atomic weight is expressed in “atomic mass unit (a.m.u)”.
+
+</para>
+<para id="element-10"><term>3: </term> The atomic mass unit is the mass of 
+<m:math>
+  <m:mrow>
+    <m:msup>
+  <m:mrow>
+  <m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>12</m:mn>
+  </m:mfrac>
+  </m:mrow>
+    <m:mi>th</m:mi>
+    </m:msup>
+  </m:mrow>
+</m:math>
+ of C-12 atom. This is average weight of constituent 6 protons and 6 neutrons forming nucleus of C-12 atom. The a.m.u, therefore, is close to the mass of either a single proton or single neutron as a constituent of C-12. The a.m.u is numerically equal to :
+</para>
+<para id="element-10a">
+<m:math display="block">
+  <m:mrow>
+    <m:mn>1</m:mn>
+    <m:mi>a</m:mi>
+    <m:mo>.</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>.</m:mo>
+    <m:mi>u</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1.66</m:mn>
+    <m:mi>X</m:mi>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>27</m:mn>
+      </m:mrow>
+    </m:msup>
+    <m:mspace width="1em"/>
+    <m:mi>k</m:mi>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1.66</m:mn>
+    <m:mi>X</m:mi>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>24</m:mn>
+      </m:mrow>
+    </m:msup>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-11"><term>4: </term> On the scale of a.m.u, the atomic weight of a carbon atom is exactly “12” and that of hydrogen is “1.008” or about “1”.  
+
+</para>
+<para id="element-11a"><term>5: </term> The number of C-12 atoms present in the quantity expressed in grams but numerically equal to atomic weight (as measured in a.m.u.) is given as :
+</para>
+<para id="element-12"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>grams numerically equal to atomic weight</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Mass of one C-12 atom in gram</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>12</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>12</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1.66</m:mn>
+
+          <m:mi>X</m:mi>
+        <m:msup>
+            <m:mn>10</m:mn>
+          <m:mrow>
+            <m:mo>-</m:mo>
+            <m:mn>24</m:mn>
+          </m:mrow>
+        </m:msup>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-13">
+The important point about this ratio is that “12” as atomic weight in the numerator and “12” as the number of a.m.u units in a single atom of C-12 cancels out, leaving us with a constant ratio :
+
+</para>
+<para id="element-14"><m:math display="block">
+		<m:mrow>
+			<m:mo>⇒</m:mo>
+			<m:msub>
+				<m:mi>N</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+			<m:mo>=</m:mo>
+			<m:mfrac>
+				<m:mrow>
+					<m:mn>1</m:mn>
+				</m:mrow>
+				<m:mrow>
+					<m:mn>1.66</m:mn>
+					<m:mi>X</m:mi>
+					<m:msup>
+						<m:mn>10</m:mn>
+						<m:mrow>
+							<m:mo>-</m:mo>
+							<m:mn>24</m:mn>
+						</m:mrow>
+					</m:msup>
+				</m:mrow>
+			</m:mfrac>
+			<m:mo>=</m:mo>
+			<m:mn>6.022</m:mn>
+			<m:mi>X</m:mi>
+			<m:msup>
+				<m:mn>10</m:mn>
+				<m:mrow>
+					<m:mn>23</m:mn>
+				</m:mrow>
+			</m:msup>
+		</m:mrow>
+	</m:math>
+</para>
+<para id="element-15">Clearly, this ratio is same for all elements. It means that the numbers of atoms in the grams numerically equal to atomic weight is <m:math>
+		<m:mrow>
+			<m:msub>
+				<m:mi>N</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:mrow>
+	</m:math>
+
+
+ for all elements. Putting it equivalently, the mass of a collection  <m:math>
+		<m:mrow>
+			<m:msub>
+				<m:mi>N</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:mrow>
+	</m:math> atoms of an element is equal to grams numerically equal to atomic weight.
+</para>
+
+
+
+<para id="element-16"><term>6: </term> We conclude that quantity in grams numerically equal to atomic weight contains <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math> number of a particular element. This provides us with another definition of mole. In the case of an element, a mole of an atom means <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math> numbers of that atom having mass in grams numerically equal to atomic weight. Important to note here is that term like "mole or moles of atoms" is a valid term. It can be emphasized that the term mole appears to be connected to molecules only, but actually it is a general concept which determines quantity of substance - atoms/molecules/ions/entities.
+
+
+</para>
+<para id="element-17"><term>7: </term>Extending the concept to molecule, a mole means <m:math>
+		<m:mrow>
+			<m:msub>
+				<m:mi>N</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:mrow>
+	</m:math> numbers of molecules having mass in grams numerically equal to molecular weight.
+
+</para>
+<para id="element-18"><term>8: </term> Further extending the concept in general, a mole of identical entities means No numbers of that entity having mass equal to <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math> times mass of one entity.
+</para>
+<para id="element-18a">The official SI definition of mole is :
+</para>
+<para id="element-18b">
+<definition id="definition-18b">
+<term> Mole </term>
+<meaning id="idm3305536"> 
+The mole is the amount of substance of a system which contains as many elementary entities as there are atoms in 0.012 kilogram of carbon 12. When the mole is used, the elementary entities must be specified and may be atoms, molecules, ions, electrons, other particles, or specified groups of such particles.
+</meaning>
+</definition>
+</para>
+</section>
+
+<section id="section-1b">
+<title>Gram moles (n)</title>
+<para id="element-19">This term emphasizes the mass aspect of mole. One “gram mole” expresses mass of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math> elements, molecules, ions (as the case be) in grams. It is equal to mass in grams numerically equal to molecular weight.
+
+
+
+</para>
+<para id="element-20">If the mass of a chemical entity is “g” grams, then the given mass contains “n” gram-moles of the entity :
+
+
+</para>
+<para id="element-21">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>gram moles(n)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Mass in gram</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Molecular weight</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>o</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-22">The gram mole or simply mole in the given grams of a sample means that there are “n” moles of substance present. This formula is widely used to express grams of substance in terms of gram moles and vice-versa.
+
+
+</para>
+<para id="element-23">Note that we use symbol Mo to denote molecular weight as we reserve the symbol “M” to denote molarity in the study of stoichiometry.
+</para>
+</section>
+
+<section id="section-1c">
+<title>Gram atoms</title>
+<para id="element-24">
+It is a special case of gram moles in which chemical entity is an element. In this case, “gram atoms” substitutes “gram moles” and “atomic weight” replaces “molecular weight”.
+
+ 
+
+
+</para>
+<para id="element-25"><m:math display="block">
+  <m:mrow>
+    <m:mtext>gram-atoms</m:mtext>
+    <m:mfenced>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>a</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Mass in gram</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Atomic weight</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-26">The atomic and molecular weights of oxygen (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) are 16 and 32 respectively. If we consider a sample of 32 grams of oxygen, then 
+
+
+</para>
+<para id="element-27"> 
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>gram moles(n)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>o</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>32</m:mn>
+      <m:mn>32</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+  </m:mrow>
+</m:math>
+
+ 
+</para>
+<para id="element-28">Clearly, there are No molecules in the given 32 grams of oxygen sample. On the other hand, gram-atoms is :
+
+
+</para>
+<para id="element-29"> <m:math display="block">
+  <m:mrow>
+    <m:mtext>gram-atoms</m:mtext>
+    <m:mfenced>
+      <m:mrow>
+        <m:msub>
+          <m:mi>n</m:mi>
+          <m:mi>a</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>32</m:mn>
+      <m:mn>16</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-30">Thus, there are 2<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math> atoms of oxygen in the given 32 grams of oxygen sample. These results are consistent with our understanding of the constitution of diatomic oxygen gas. The important point to keep in mind is that we need to employ the concept of “gram- atoms (g-atoms)” to elements only irrespective of whether it is mono-atomic or polyatomic. 
+</para>
+<example id="example-31">
+<para id="element-31"><term>Problem : </term>What is mass of one molecule of Calcium carbonate?
+</para>
+<para id="element-32"><term>Solution : </term>The mass of one molecule of Calcium carbonate is equal to its molecular weight (Mo)
+</para>
+<para id="element-33"> <m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>40</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>12</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>16</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>3</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>a</m:mi>
+    <m:mo>.</m:mo>
+    <m:mi>m</m:mi>
+    <m:mo>.</m:mo>
+    <m:mi>u</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1.66</m:mn>
+    <m:mi>X</m:mi>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>24</m:mn>
+      </m:mrow>
+    </m:msup>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1.66</m:mn>
+    <m:mi>X</m:mi>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mo>-</m:mo>
+        <m:mn>22</m:mn>
+      </m:mrow>
+    </m:msup>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+<example id="example-34">
+
+<para id="element-34"><term>Problem : </term>What is mass of one mole of Calcium carbonate?
+</para>
+<para id="element-35"><term>Solution : </term>The mass of one mole of Calcium carbonate is equal to grams numerically equal to molecular weight (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>)
+
+
+</para>
+<para id="element-36"><m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>40</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>12</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>16</m:mn>
+
+          <m:mi>X</m:mi>
+          <m:mn>3</m:mn>
+
+      </m:mrow>
+    </m:mfenced>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+<example id="example-37">
+<para id="element-37"><term>Problem : </term>Find the number of moles in 500 grams of pure Calcium carbonate?
+
+</para>
+<para id="element-38">
+<term>Solution : </term> The numbers of moles is given by :
+
+
+</para>
+<para id="element-39"><m:math display="block">
+  <m:mrow>
+    <m:mi>n</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>o</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>500</m:mn>
+      <m:mn>100</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>5</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+<example id="example-40">
+<para id="element-40"><term>Problem : </term> Which represents greatest mass among 100 gm of calcium, 3 g-atoms of calcium , 1 mole of calcium oxide, <m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mn>25</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>
+ molecules of oxygen?
+</para>
+<para id="element-41"><term>Solution : </term>We convert each of the given quantity in grams for comparison :
+</para>
+<para id="element-42">
+<m:math display="block">
+  <m:mrow>
+    <m:mn>100</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm of calcium</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-43"><m:math display="block">
+  <m:mrow>
+    <m:mn>3</m:mn>
+    <m:mi>g</m:mi>
+    <m:mo>-</m:mo>
+    <m:mtext>atoms of calcium</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>a</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>40</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>120</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-44"><m:math display="block">
+  <m:mrow>
+    <m:mn>1</m:mn>
+    <m:mtext>mole of calcium oxide</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:mi>a</m:mi>
+        <m:mi>O</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>40</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>16</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>56</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-45"><m:math display="block">
+		<m:mrow>
+			<m:msup>
+				<m:mn>10</m:mn>
+				<m:mrow>
+					<m:mn>25</m:mn>
+				</m:mrow>
+			</m:msup>
+			<m:mspace width="1em"/>
+			<m:mtext>molecules of oxygen</m:mtext>
+			<m:mo>=</m:mo>
+			<m:mfrac>
+				<m:mrow>
+					<m:msup>
+						<m:mn>10</m:mn>
+						<m:mrow>
+							<m:mn>25</m:mn>
+						</m:mrow>
+					</m:msup>
+				</m:mrow>
+				<m:mrow>
+					<m:mn>6.022</m:mn>
+					<m:mi>X</m:mi>
+					<m:msup>
+						<m:mn>10</m:mn>
+						<m:mrow>
+							<m:mn>23</m:mn>
+						</m:mrow>
+					</m:msup>
+				</m:mrow>
+			</m:mfrac>
+			<m:mspace width="1em"/>
+			<m:mtext>moles</m:mtext>
+			<m:mo>=</m:mo>
+			<m:mn>0.166</m:mn>
+			<m:mi>X</m:mi>
+			<m:msup>
+				<m:mn>10</m:mn>
+				<m:mrow>
+					<m:mn>2</m:mn>
+				</m:mrow>
+			</m:msup>
+			<m:mspace width="1em"/>
+			<m:mtext>moles</m:mtext>
+		</m:mrow>
+	</m:math>
+</para>
+<para id="element-45a"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mn>25</m:mn>
+      </m:mrow>
+    </m:msup>
+    <m:mspace width="1em"/>
+    <m:mtext>molecules of oxygen</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>16.6</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>moles</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>16.6</m:mn>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mtext>gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>16.6</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>32</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>531.2</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+    <m:mspace width="1em"/>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-46">Clearly, <m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mn>25</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math> molecules of oxygen represents greatest mass.
+</para>
+</example>
+</section>
+<section id="section-1d">
+<title>Number of entities </title>
+<para id="element-47">The number of moles in a given mass of a molecule is given by :
+
+
+
+</para>
+<para id="element-48">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>moles(n)</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>o</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-49">Since each mole has <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math> entities, the total numbers of entities in “n” moles is :
+
+
+</para>
+<para id="element-50"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Total number of molecules</m:mtext>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>N</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>0</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>o</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>0</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-51">If we are interested to count atoms in a sample of an element, then we use “gram atom” as :
+
+
+</para>
+<para id="element-52"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Total number of atoms</m:mtext>
+    <m:mfenced>
+      <m:mrow>
+        <m:mi>N</m:mi>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>n</m:mi>
+    <m:mi>a</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>0</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mi>A</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>0</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<example id="example-54">
+<para id="element-53"><term>Problem : </term> If <m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mn>22</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>
+ water molecules are removed from 100 mg of water, then find the remaining mass of water. 
+</para>
+<para id="element-54"><term>Solution : </term> Here we need to find the mass of <m:math>
+  <m:mrow>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mn>22</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math> water molecules. We know that numbers of molecules is related to mass in gram as :
+</para>
+<para id="element-55">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>0</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>o</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>0</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-56"><m:math display="block">
+		<m:mrow>
+			<m:mo>⇒</m:mo>
+			<m:mi>g</m:mi>
+			<m:mo>=</m:mo>
+			<m:mfrac>
+				<m:mrow>
+					<m:mi>N</m:mi>
+					<m:mrow>
+						<m:msub>
+							<m:mi>M</m:mi>
+							<m:mi>o</m:mi>
+						</m:msub>
+					</m:mrow>
+				</m:mrow>
+				<m:msub>
+					<m:mi>N</m:mi>
+					<m:mn>0</m:mn>
+				</m:msub>
+			</m:mfrac>
+			<m:mo>=</m:mo>
+			<m:mfrac>
+				<m:mrow>
+					<m:msup>
+						<m:mn>10</m:mn>
+						<m:mrow>
+							<m:mn>22</m:mn>
+						</m:mrow>
+					</m:msup>
+					<m:msub>
+						<m:mi>X</m:mi>
+						<m:mn>18</m:mn>
+					</m:msub>
+				</m:mrow>
+				<m:mrow>
+					<m:mn>6.022</m:mn>
+					<m:mi>X</m:mi>
+					<m:msup>
+						<m:mn>10</m:mn>
+						<m:mrow>
+							<m:mn>23</m:mn>
+						</m:mrow>
+					</m:msup>
+				</m:mrow>
+			</m:mfrac>
+			<m:mo>=</m:mo>
+			<m:mn>2.989</m:mn>
+			<m:mi>X</m:mi>
+			<m:mn>0.1</m:mn>
+			<m:mo>=</m:mo>
+			<m:mn>0.2989</m:mn>
+			<m:mspace width="1em"/>
+			<m:mtext>gm</m:mtext>
+			<m:mo>=</m:mo>
+			<m:mn>2.989</m:mn>
+			<m:mspace width="1em"/>
+			<m:mtext>mg</m:mtext>
+		</m:mrow>
+	</m:math>
+</para>
+<para id="element-57">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>remaining mass of water</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>2.989</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>97.011</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>mg</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+
+</section>
+</section>
+
+<section id="section-2">
+<title>Mole concept </title>
+
+<para id="element-58">
+
+Chemical reactions involve dissociation and association at atomic/molecular/ionic level. The measurements of constituent entities of a reaction can be carried out using conventional mass measurements in grams or kilograms. What is the need to carry out analysis in terms of moles?
+
+</para>
+<para id="element-59">Let us have a look at the chemical reaction :
+
+
+</para>
+<para id="element-60"><m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+ 
+</para>
+<para id="element-61">Let us further consider that there are 2 gms of hydrogen involved in the reaction. Can we interpret the given balanced equation to predict the mass of oxygen involved in the reaction? Clearly, it would not be possible unless we know the molecular mass. In terms of molecular mass, we see that 4 a.m.u of hydrogen reacts with 32 a.m.u of oxygen. This mass correlation, however, is slightly incomprehensible to our measurement sense as a.m.u is very minute mass almost incomprehensibly too small for our perceptible laboratory measurements in grams.
+
+
+</para>
+<para id="element-62">We can though extend the molecular mass proportion to grams. We note that the mass ratio of two elements in the reaction is 4:32 i.e. 1:8. Hence, 2 grams of hydrogen reacts with 16 grams of oxygen. This completes the picture. But, slight discomfort is that the correspondence of mass is not directly related with the numbers of molecules (coefficients of balanced chemical equation) involved in the reaction.
+</para>
+<para id="element-63">Mole concept simplifies the mass relation among reactants and products such that we can base our calculation on the coefficients (numbers of molecules involved in the reaction). At the same time, mass or the quantity of substance is on lab scale in grams. Looking at the equation, we can say that 2 molecules of hydrogen react with one molecule of oxygen. Extending this understanding of reaction to the moles of the substance, we come to the conclusion that “2 moles of hydrogen reacts with 1 mole of oxygen”. Here, we have simply scaled the molecular relation <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mi>o</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math> times. 
+</para>
+<para id="element-64">For a general reaction of the type :
+</para>
+<para id="element-65">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mi>A</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>y</m:mi>
+    <m:mi>B</m:mi>
+    <m:mo>→</m:mo>
+    <m:msub>
+      <m:mi>A</m:mi>
+      <m:mi>x</m:mi>
+    </m:msub>
+    <m:msub>
+      <m:mi>B</m:mi>
+      <m:mi>y</m:mi>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-65a"> We say that “x moles of A reacts with y moles of B”.
+</para>
+<para id="element-66">
+This is a very powerful deduction popularly known as “mole concept”. It connects the measurement of mass neatly with the coefficients which are whole numbers. Further as moles are connected to mass in grams, measurement of quantities can be easily calculated in practical mass units like grams.
+</para>
+<example id="example-69">
+<para id="element-69"><term>Problem : </term> Find the mass of KCl and oxygen liberated when 24.5 grams of <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is heated. Assume 100 % decomposition on heating. Given, <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mi>K</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>39</m:mn>
+  </m:mrow>
+</m:math>.
+</para>
+<para id="element-70"><term>Solution : </term> On heating <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> decomposes as :
+
+
+</para>
+<para id="element-71"><m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>→</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>3</m:mn>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-72">In order to apply mole concept, we need to find the moles of <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> in the sample. 
+
+
+</para>
+<para id="element-73"><m:math display="block">
+  <m:mrow>
+    <m:mtext>moles of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>24.5</m:mn>
+      <m:mrow>
+        <m:mtext>molecular wt of</m:mtext>
+        <m:mi>K</m:mi>
+        <m:mi>C</m:mi>
+        <m:mi>l</m:mi>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>3</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-74">Here, molecular weight of <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is :
+</para>
+<para id="element-75"><m:math display="block">
+  <m:mrow>
+    <m:mtext>molecular wt of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>39</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>35.5</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>16</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>122.5</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-76">Putting this value in the equation of moles :
+
+
+</para>
+<para id="element-77"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>moles of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>24.5</m:mn>
+      <m:mrow>
+        <m:mtext>molecular wt of</m:mtext>
+        <m:mi>K</m:mi>
+        <m:mi>C</m:mi>
+        <m:mi>l</m:mi>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>3</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>24.5</m:mn>
+      <m:mn>122.5</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-78">Applying mole concept to the equation, we have : 
+
+</para>
+<para id="element-79"><m:math display="block">
+  <m:mrow>
+    <m:mn>2</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>mole of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mo>≘</m:mo>
+    <m:mspace width="1em"/>
+    <m:mn>2</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mspace width="1em"/>
+    <m:mo>≘</m:mo>
+    <m:mspace width="1em"/>
+    <m:mn>3</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of oxygen</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-80"><m:math display="block">
+  <m:mrow>
+    <m:mn>1</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>mole of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mo>≘</m:mo>
+    <m:mspace width="1em"/>
+    <m:mn>1</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mspace width="1em"/>
+    <m:mo>≘</m:mo>
+    <m:mspace width="1em"/>
+    <m:mfrac>
+      <m:mn>3</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of oxygen</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-81"><m:math display="block">
+  <m:mrow>
+    <m:mn>0.2</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>mole of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mo>≘</m:mo>
+    <m:mspace width="1em"/>
+    <m:mn>0.2</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of</m:mtext>
+    <m:mi>K</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mspace width="1em"/>
+    <m:mo>≘</m:mo>
+    <m:mspace width="1em"/>
+    <m:mfrac>
+      <m:mn>0.6</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of oxygen</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-82">
+At this point, we need to convert the mass measurement from mole to grams,
+
+
+</para>
+<para id="element-83"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>m</m:mi>
+      <m:mtext>KCl</m:mtext>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mtext>KCl</m:mtext>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mtext>KCl</m:mtext>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mfenced>
+      <m:mrow>
+        <m:mn>39</m:mn>
+        <m:mo>+</m:mo>
+        <m:mn>35.5</m:mn>
+      </m:mrow>
+    </m:mfenced>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>74.5</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>14.9</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-84">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>m</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>0.6</m:mn>
+      <m:mn>2</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>32</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.6</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>16</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>9.6</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>gm</m:mtext>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section>
+<section id="section-3">
+<title>Ideal gas and mole concept</title>
+<para id="element-85">
+The concept of mole is applicable to identical entities (atoms, molecules, ions). Thus, its direct application is restricted to pure substances – irrespective of its state (solid, liquid and gas). For all practical purposes, we treat mole as an alternative expression of mass. They are connected to each other via molecular weight for a given pure substance. However, measurement of gas is generally reported in terms of volume in stoichiometric calculation. We would, therefore, need to convert the volume of the gas to mass/mole.
+
+
+
+</para>
+<para id="element-86">If the gas in question is ideal gas, then we can easily connect volume to mole directly. Ideal gas presents a special situation. The collisions are perfectly elastic and there is no intermolecular force between molecules. The volume occupied by gas molecules is negligible with respect to the volume of ideal gas. It means that the size of molecule has no consequence as far as the volume of ideal has is concerned. These negligibly small molecules, however, exchange momentum and kinetic energy through perfectly elastic collisions. Clearly, volume depends solely on the numbers of molecules present – not on the mass or size of molecules. This understanding leads to Avogadro’s hypothesis :
+
+
+</para>
+<para id="element-87">
+All ideal gases occupy same volume at a given temperature and pressure. One mole of ideal gas occupies 22.4 litres i.e. 22,400 ml at standard temperature (273 K) and pressure (1 atmosphere) condition. 
+
+</para>
+<para id="element-88">
+The gas volume for 1 mole is known as molar volume. The Avogadro’s hypothesis provides an important relation between volume and moles of gas present. This relationship does not hold for real gas. But we are served well in our calculation by approximating real gas as ideal gas. The real gas like hydrogen, oxygen etc. may still be close to the ideal gas molar volume at normal temperature and pressure conditions.
+</para>
+<example id="example-89">
+<para id="element-89"><term>Problem : </term>Air contains 22.4 % oxygen. How many moles of oxygen atoms are there in 1 litre of air at standard condition ?
+</para>
+<para id="element-90"><term>Solution : </term>The volume of oxygen is 0.224 litre. We know that 22.4 litres contains 1 mole of oxygen molecules. Hence, 0.21 litres contains “n” moles given by :
+</para>
+<para id="element-91">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>n</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>0.224</m:mn>
+      <m:mn>22.4</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.01</m:mn>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of oxygen molecules</m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-92">We know that one molecule of oxygen contains 2 atoms. Therefore, numbers of moles of oxygen atoms is 0.02 moles.
+</para>
+</example>
+<example id="example-93">
+<para id="element-93"><term>Problem : </term>Calculate the numbers of molecules in 300 cc of oxygen at 27° C and 740 mm pressure.
+</para>
+<para id="element-94"><term>Solution : </term>We first need to convert the given volume at given temperature and pressure to that at standard temperature and pressure condition. Applying gas law,
+</para>
+<para id="element-95">
+<m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-96">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>P</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>T</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>740</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>300</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>273</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>760</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>300</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>265.82</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>c</m:mi>
+    <m:mi>c</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-97">Number of molecules of oxygen is :
+</para>
+<para id="element-98">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>265.82</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>6.022</m:mn>
+        <m:mi>X</m:mi>
+        <m:msup>
+          <m:mn>10</m:mn>
+          <m:mrow>
+            <m:mn>23</m:mn>
+          </m:mrow>
+        </m:msup>
+      </m:mrow>
+      <m:mn>22400</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>7.146</m:mn>
+    <m:mi>X</m:mi>
+    <m:msup>
+      <m:mn>10</m:mn>
+      <m:mrow>
+        <m:mn>21</m:mn>
+      </m:mrow>
+    </m:msup>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section>
+
+<section id="section-4">
+<title>Analysis techniques</title>
+<para id="element-99">Stoichiometric analysis is about analyzing mass of different chemical species or concentrations of solutions involved in chemical reactions. We employ varieties of different concepts and hypotheses. These principles are primarily based on molecular association of various chemical species in chemical reactions. Most important among these are mole, equivalent weight and gram equivalent weight concepts. Each of these concepts relates amount of different species in chemical reaction in alternative ways. It means that these concepts have contextual superiority over others (suitability in a particular context), but are essentially equivalent. 
+</para>
+<para id="element-100">
+Stoichiometric analysis is broadly classified as gravimetric or volumetric analysis depending on whether calculations are mass based (gravimetric) or concentration of solution based (volumetric). There is no strict division between two approaches as we encounter reactions which require considerations of both aspects i.e. mass of species and concentration of solution.
+
+</para>
+<para id="element-101">
+In general, gravimetric analysis covers displacement reactions, action of acid on metals, calculations based on balanced equations, decomposition reaction etc. On the other hand, volumetric analysis covers wide ambit of titration including neutralization and redox reactions. Many of the chemical reactions, however, need combination of two analytical approaches. For example, a sequence of chemical process may involve decomposition (gravimetric analysis) and titration (volumetric analysis).  
+</para>
+
+</section>
+  </content>
+  
+</document>

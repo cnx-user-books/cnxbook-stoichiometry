@@ -1,0 +1,1526 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Dilution</title>
+  <metadata>
+  <md:content-id>m17123</md:content-id><md:title>Dilution</md:title>
+  <md:abstract/>
+  <md:uuid>22630c43-bfaa-4b7c-842d-fd2951f07a42</md:uuid>
+</metadata>
+
+<content>
+<para id="element-1">Dilution means adding solvent (A) to a solution (S). The amount of solute (B) remains constant, but the amount of solution increases. Dilution of solution is needed as solutions are purchased and stored in concentrated form; whereas we use solution of different concentration in accordance with the requirement of the application.
+
+
+</para>
+<para id="element-2">Concentration of solution is expressed in different concentration format as mass percent, mole fraction, molarity, normality or any other format. The underlying principle, here, is that quantity of solute remains the same before and after dilution. 
+
+</para>
+<para id="element-6">Dilution of a solution of a given chemical entity can also be realized by mixing solution of higher concentration with solution of lower concentration. This mixing is equivalent to increasing amount of solvent. This aspect has already been dealt in the module titled “Gram equivalent concept”.
+</para>
+<section id="section-1">
+<title>Mass percentage and dilution</title>
+<para id="element-3">
+Mass percentage is equal to percentage of mass of solute with respect to solution and is given by :
+</para>
+<para id="element-4"><m:math display="block">
+  <m:mrow>
+    <m:mi>y</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Mass of solute(B)</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:mtext>Mass of solution(S)</m:mtext>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>W</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>W</m:mi>
+          <m:mi>S</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>B</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>g</m:mi>
+          <m:mi>S</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-5">Let 1 and 2 subscripts denote before and after states, then mass of solute before and after dilution is same :
+</para>
+
+
+<para id="element-6a">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>W</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>B</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>W</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>B</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-7">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>W</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>W</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-8">Similarly,
+</para>
+<para id="element-9"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<example id="example-10">
+<para id="element-10"><term>Problem : </term>How much water would you need to prepare 600 grams of a 4% (w/w) Hydrogen Peroxide (<m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>) solution using a solution of 20% (w/w) ?
+
+</para>
+<para id="element-11"><term>Solution : </term> Here, 
+
+</para>
+<para id="element-12"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>600</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-13"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>4</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-14"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>20</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-15"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-16"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>4</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>600</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>20</m:mn>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-17">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>g</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>S</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>4</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>600</m:mn>
+      </m:mrow>
+      <m:mn>20</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>120</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-18"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Total mass of 4% </m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>mass of 20% solution </m:mtext>
+    <m:mo>+</m:mo>
+    <m:mtext> mass of water added </m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-19"><m:math display="block">
+  <m:mrow>
+    <m:mtext>mass of water added</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>600</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>120</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>480</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+</section>
+<section id="section-2">
+<title>Molarity and dilution</title>
+<para id="element-20">Molarity is equal to ratio of moles of solute and volume of solution and is given by :
+</para>
+<para id="element-20a">
+
+
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>moles of solute</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mi>L</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>mill−moles of solute</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math> 
+</para>
+<para id="element-21">Let 1 and 2 subscripts denote before and after dilution, then :
+
+
+</para>
+<para id="element-22"><m:math display="block">
+  <m:mrow>
+    <m:mtext>moles before dilution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>moles after dilution</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-23"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>L</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>L</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-24">Similarly,
+</para>
+<para id="element-25"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<example id="example-26">
+
+<para id="element-26"><term>Problem : </term> What volume of water should be added to 100 ml nitric acid having specific gravity 1.4 and 70% strength to give 1 M solution?
+</para>
+<para id="element-27"><term>Solution : </term>We first need to convert the given strength of concentration to molarity. Molarity is given by :
+</para>
+<para id="element-28">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>10</m:mn>
+        <m:mi>y</m:mi>
+        <m:mi>d</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-29">The specific gravity is 1.4 (density compared to water). Hence, density of solution is 1.4 gm/ml. 
+
+
+</para>
+<para id="element-30"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>10</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>70</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1.4</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>14</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>15.55</m:mn>
+    <m:mi>M</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-31">Applying dilution equation,
+
+
+</para>
+<para id="element-32"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-33"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>15.55</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-34"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>1555</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-35"><m:math display="block">
+  <m:mrow>
+    <m:mtext>The volume of water to be added</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1555</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1455</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+<example id="example-36">
+<para id="element-36"><term>Problem : </term>In an experiment, 300 ml of 6.0 M nitric acid is required. Only 50 ml of pure nitric acid is available. Pure anhydrous nitric acid (100%) is a colorless liquid with a density of 1522 <m:math>
+  <m:mrow>
+    <m:mi>k</m:mi>
+    <m:mi>g</m:mi>
+    <m:mo>/</m:mo>
+    <m:msup>
+      <m:mi>m</m:mi>
+      <m:mn>3</m:mn>
+    </m:msup>
+  </m:mrow>
+</m:math>.  Would it be possible to carry out the experiment?
+</para>
+
+<para id="element-38"><term>Solution : </term>Here, 
+</para>
+<para id="element-39">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>6</m:mn>
+    <m:mi>M</m:mi>
+    <m:mo>;</m:mo>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mo>?</m:mo>
+    <m:mo>;</m:mo>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>300</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>;</m:mo>
+    <m:mspace width="1em"/>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mo>?</m:mo>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-40">In order to apply dilution equation, we need to know the molarity of concentrated nitric acid. Now 1 litre pure concentrate weighs 1000 X 1.522 = 1522 gm. The number of moles in 1 litre of nitric acid is :
+
+
+</para>
+
+<para id="element-41"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mi>B</m:mi>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1522</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>1</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>14</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+
+              <m:mi>X</m:mi>
+              <m:mn>16</m:mn>
+
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>24.16</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-42">Hence, molarity of the nitric acid concentrate is 24.16 M.
+</para>
+<para id="element-43">Applying dilution equation, 
+
+</para>
+<para id="element-44"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-45">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>C</m:mi>
+              <m:mn>1</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>6</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>300</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>24.16</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>74.5</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-46">It means requirement of concentrate (74.5 ml) is more than what is available (50 ml). As such, experiment can not be completed.
+</para>
+</example>
+<example id="example-47">
+<para id="element-47"><term>Problem : </term>A 100 ml, 0.5 M calcium nitrate solution is mixed with 200 ml of 1.25M calcium nitrate solution. Calculate the concentration of the final solution. Assume volumes to be additive.
+</para>
+<para id="element-48"><term>Solution : </term> We first calculate milli-moles for each solution. Then, add them up to get the total moles present in the solution. Finally, we divide that total moles by the total volume.
+
+
+</para>
+<para id="element-49"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Milli-moles in the first solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>0.5</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>50</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-50"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Milli-moles in the second solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>200</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1.25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>250</m:mn>
+  </m:mrow>
+</m:math>
+ 
+</para>
+<para id="element-51"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Milli-moles in the final solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>50</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>250</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>300</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-52"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Total volume of the solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>+</m:mo>
+    <m:mn>200</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>300</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-53">
+Hence, molarity of the final solution is :
+
+
+</para>
+<para id="element-54"><m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>Milli-moles of solute</m:mtext>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>V</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>C</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>300</m:mn>
+      <m:mn>300</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+    <m:mi>M</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-55"><term>Alternative method </term>
+</para>
+<para id="element-56">Molarity of the first solution when diluted to final volume of 300 ml is obtained as :
+        
+
+</para>
+<para id="element-57"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-58"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:mn>300</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-59"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>50</m:mn>
+      <m:mn>300</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>6</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-60">Molarity of the second solution when diluted to final volume of 300 ml is obtained as :
+
+
+</para>
+<para id="element-61"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-62"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>1.25</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>200</m:mn>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:mn>300</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-63"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>250</m:mn>
+      <m:mn>300</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>5</m:mn>
+      <m:mn>6</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-64">
+Hence, molarity of the final combined solution is :
+
+</para>
+<para id="element-65">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>1</m:mn>
+      <m:mn>6</m:mn>
+    </m:mfrac>
+    <m:mo>+</m:mo>
+    <m:mfrac>
+      <m:mn>5</m:mn>
+      <m:mn>6</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+</section>
+<section id="section-3">
+<title>Normality and dilution</title>
+<para id="element-76">As there is no change in the amount of solute due to dilution, the amount expressed as gram equivalents should also remain same before and after dilution. Like in the case of molarity, we state the condition of dilution in terms of normality as :
+</para>
+<para id="element-77"><m:math display="block">
+  <m:mrow>
+    <m:mtext>Gram equivalents in the solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<example id="example-1">
+<para id="element-78"><term>Problem : </term> What volume of water should be added to 100 ml sulphuric acid having specific gravity 1.1 and 80% strength to give 1 N solution?
+
+
+</para>
+<para id="element-79"><term>Solution : </term> We first need to convert the given strength of concentration to Normality. For that we first calculate molarity and then use the formula :
+
+:
+</para>
+<para id="element-80"><m:math display="block">
+  <m:mrow>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mi>M</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-81">Now, molarity is given by 
+</para>
+<para id="element-82">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>10</m:mn>
+        <m:mi>y</m:mi>
+        <m:mi>d</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-83">The specific gravity is 1.4 (density compared to water). Hence, density of solution is 1.4 gm/ml. 
+
+
+</para>
+<para id="element-84">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>10</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>80</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1.1</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>2</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>1</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>32</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>4</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>8.98</m:mn>
+    <m:mi>M</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+
+</para>
+<para id="element-85">The valence factor of <m:math>
+  <m:mrow>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+ is 2. Hence,
+
+
+</para>
+<para id="element-86"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>N</m:mi>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mi>M</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>8.98</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>17.96</m:mn>
+    <m:mi>N</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-87">Applying dilution equation,
+
+
+</para>
+<para id="element-88"><m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>1</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>C</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-89"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>17.96</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+    <m:mi>X</m:mi>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-90"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>1796</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-91"><m:math display="block">
+  <m:mrow>
+    <m:mtext>The volume of water to be added</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>1796</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1696</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+</example>
+</section>
+
+<para id="element-92">
+</para>
+<para id="element-93">
+</para>
+<para id="element-94">
+</para>
+<para id="element-95">
+</para>
+<para id="element-96">
+</para>
+<para id="element-97">
+</para>
+<para id="element-98">
+</para>
+<para id="element-99">
+</para>
+<para id="element-100">
+</para>
+
+<para id="element-101">
+</para>
+<para id="element-102">
+</para>
+<para id="element-103">
+</para>
+<para id="element-104">
+</para>
+<para id="element-105">
+</para>
+<para id="element-106">
+</para>
+<para id="element-107">
+</para>
+<para id="element-108">
+</para>
+<para id="element-109">
+</para>
+<para id="element-110">
+</para>
+<para id="element-111">
+</para>
+<para id="element-112">
+</para>
+<para id="element-113">
+</para>
+<para id="element-114">
+</para>
+<para id="element-115">
+</para>
+<para id="element-116">
+</para>
+<para id="element-117">
+</para>
+<para id="element-118">
+</para>
+<para id="element-119">
+</para>
+<para id="element-120">
+</para>
+<para id="element-121">
+</para>
+<para id="element-122">
+</para>
+<para id="element-123">
+</para>
+<para id="element-124">
+</para>
+<para id="element-125">
+</para>
+<para id="element-126">
+</para>
+<para id="element-127">
+</para>
+<para id="element-128">
+</para>
+<para id="element-129">
+</para>
+<para id="element-130">
+</para>
+<para id="element-131">
+</para>
+<para id="element-132">
+</para>
+<para id="element-133">
+</para>
+<para id="element-134">
+</para>
+<para id="element-135">
+</para>
+<para id="element-136">
+</para>
+<para id="element-137">
+</para>
+  
+  </content>
+  
+</document>

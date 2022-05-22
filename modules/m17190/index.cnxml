@@ -1,0 +1,2129 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Back titration</title>
+  <metadata>
+  <md:content-id>m17190</md:content-id><md:title>Back titration</md:title>
+  <md:abstract/>
+  <md:uuid>af5866fb-86b6-4867-9465-a87d5c84a99b</md:uuid>
+</metadata>
+
+<content>
+<para id="element-1">
+Back titration is also titration. It is called back titration because it is not carried out with the solution whose concentration is required to be known (analyte) as in the case of normal or forward titration, but with the excess volume of reactant which has been left over after completing reaction with the analyte. Back titration works in the following manner (with an example) :
+
+</para>
+<para id="element-2">
+1: The substance or solution of unknown concentration (4 gm of contaminated chalk, <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+) is made to react with known volume and concentration of intermediate reactant solution (200 ml, 0.5N HCl). The reaction goes past the equivalence point. The amount of intermediate reactant is in excess of that required for completing reaction with analyte.
+</para>
+<para id="element-3">2: After completing the reaction with analyte, the resulting solution containing excess of intermediate reactant is titrated with known volume and concentration of titrant (50 ml of 0.5N NaOH). If subscripts 1 and 2 denotes intermediate reactant and titrant, then  
+
+</para>
+<para id="element-4">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-5">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>50</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-6">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>volume of excess HCl, V</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>50</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>l</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-7">Also,
+
+</para>
+<para id="element-8">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of execss HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of titrant, NaOH</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>50</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>25</m:mn>
+  </m:mrow>
+</m:math> 
+</para>
+<para id="element-9">
+3: Determination of excess volume or meq of intermediate reactant allows us to determine the volume or meq of intermediate reactant which reacted with analyte. This, in turn, lets us determine the amount of analyte.
+
+</para>
+
+
+
+
+<para id="element-14">
+ 
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of chalk</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>total meq of HCl </m:mtext>
+    <m:mo>-</m:mo>
+    <m:mtext>meq of excess HCl   </m:mtext>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-558"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of chalk</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>200</m:mn>
+    <m:mo>-</m:mo>
+    <m:mn>25</m:mn>
+  </m:mrow>
+</m:math></para><para id="element-15">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of chalk</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of HCl used for chalk</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>75</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-16">
+Applying gram equivalent concept to chalk and HCl,
+
+</para>
+<para id="element-17">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of chalk</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of HCl used for chalk</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>75</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-18">
+<m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1000</m:mn>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>40</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>12</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>3</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>75</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-19">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>75</m:mn>
+      <m:mn>20</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>15</m:mn>
+      <m:mn>4</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>3.75</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-20">
+This means chalk contained 0.25 gm of impurities in it.
+</para>
+<section id="section-1">
+<title> Purpose of back titration </title>
+<para id="element-21">
+Back titration is designed to resolve some of the problems encountered with forward or direct titration. Possible reasons for devising back titration technique are :
+
+</para>
+<para id="element-22">
+<term>1: </term>The analyte may be in solid form like chalk in the example given above. 
+
+</para>
+<para id="element-23">
+<term>2: </term>The analyte may contain impurities which may interfere with direct titration. Consider the case of contaminated chalk. We can filter out the impurities before the excess reactant is titrated and thus avoid this situation.
+
+</para>
+<para id="element-24">
+<term>3: </term>The analyte reacts slowly with titrant in direct or forward titration. The reaction with the intermediate reactant can be speeded up and reaction can be completed say by heating. 
+
+</para>
+<para id="element-25">
+<term>4: </term>Weak acid – weak base reactions can be subjected to back titration for analysis of solution of unknown concentration. Recall that weak acid-weak weak titration does not yield a well defined change in pH, which can be detected using an indicator.
+</para>
+<example id="example-26">
+
+<para id="element-26"><term>Problem : </term>
+50 litres of air at STP is slowly bubbled through 100 ml of 0.03N <m:math>
+  <m:mrow>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+ solution. The <m:math>
+  <m:mrow>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> formed due to reaction is filtered and few drops of Phenolphthalein is added to the solution rendering it pink. The solution required 25 ml of 0.1 N HCl solution when indicator turned colorless. Calculate percentage by volume of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> in air.
+
+</para>
+<para id="element-27"><term>Solution : </term> 
+
+Carbon dioxide reacts with <m:math>
+  <m:mrow>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> to form <m:math>
+  <m:mrow>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. The excess <m:math>
+  <m:mrow>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is back titrated with HCl.
+
+</para>
+<para id="element-28">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>total meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.03</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>3</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-29">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of excess</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>2.5</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-30">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:msub>
+      <m:mfenced>
+        <m:mrow>
+          <m:mi>O</m:mi>
+          <m:mi>H</m:mi>
+        </m:mrow>
+      </m:mfenced>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>solution used for</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>20</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>2.5</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.5</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-31">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>m</m:mi>
+        <m:mi>e</m:mi>
+        <m:mi>q</m:mi>
+        <m:mi>X</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.5</m:mn>
+        <m:mi>X</m:mi>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>12</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>2</m:mn>
+            <m:mi>X</m:mi>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>2</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.01</m:mn>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+
+</para>
+<para id="element-32">
+Using Avogadro’s hypothesis, 44 gm of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> occpies 22.4 litres at STP. This mass of CO2 corresponds to :
+
+</para>
+<para id="element-33">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>volume of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>22.4</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>0.01</m:mn>
+      </m:mrow>
+      <m:mn>44</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.01</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>l</m:mi>
+    <m:mi>i</m:mi>
+    <m:mi>t</m:mi>
+    <m:mi>r</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>s</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-34">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>% of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>in air</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>0.01</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>100</m:mn>
+      </m:mrow>
+      <m:mn>50</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.02</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+</example>
+
+</section>
+<section id="section-2">
+<title> Back titration and dilution </title>
+
+<para id="element-35">
+
+While dealing dilution in titration calculation, we need only to remember that dilution does not change geq or meq of a solution.
+</para>
+<example id="example-36">
+
+
+<para id="element-36"><term>Problem : </term> 
+
+2.75 gram of a sample of dolomite containing <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+ and <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is dissolved in 80 ml 1N HCl solution. The solution is then diluted to 250 ml. 25 ml of this solution requires 20 ml of 0.1 N NaOH solution for complete neutralization. Calculate percentage composition of the sample.
+
+</para>
+<para id="element-37"><term>Solution : </term> 
+
+We shall first determine the amount of HCl required to react with the sample by using back titration data. Here, we make use the fact that dilution does not change meq of a solution.
+
+</para>
+<para id="element-38"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of 25 ml of diluted excess HCl solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mtext>meq of NaOH solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>20</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>2</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-39"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of 250 ml of diluted excess HCl solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>20</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-40"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>total meq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>80</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>1</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>80</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-41">
+<m:math display="block">
+  <m:mrow>
+    <m:mtext>meq of HCl used to react with dolomite</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>80</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>20</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>60</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-523">Mass of HCl used in reaction with dolomite is calculated using expression of meq :</para><para id="element-42">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>q</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+  </m:mrow>
+</m:math>
+                
+
+
+</para>
+<para id="element-43">
+
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>m</m:mi>
+        <m:mi>e</m:mi>
+        <m:mi>q</m:mi>
+        <m:mi>X</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>60</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>36.5</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>1</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>2.19</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math> 
+
+</para>
+<para id="element-44">
+In order to find the composition, we apply mole concept. The reactions involved are :
+
+</para>
+<para id="element-45">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>l</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-46">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>l</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-47">Let mass of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> in the sample is x gm. Then mass of <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is 2.75-x gm. 
+
+</para>
+<para id="element-48">
+<m:math display="block">
+  <m:mrow>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>C</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>C</m:mi>
+            <m:msub>
+              <m:mi>O</m:mi>
+              <m:mn>3</m:mn>
+            </m:msub>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mtext> moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>x</m:mi>
+      <m:mn>100</m:mn>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>100</m:mn>
+    </m:mfrac>
+    <m:mspace width="1em"/>
+    <m:mtext>moles of HCl</m:mtext>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-49"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>mass of HCl required for</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mi>x</m:mi>
+    <m:mo>X</m:mo>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mn>100</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mi>x</m:mi>
+    <m:mo>X</m:mo>
+        <m:mn>36.5</m:mn>
+      </m:mrow>
+      <m:mn>100</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>73</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+      <m:mn>100</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.73</m:mn>
+    <m:mi>x</m:mi>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-50">
+Similarly for <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>,
+
+</para>
+<para id="element-51">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>mass of HCl required for</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>2.75</m:mn>
+            <m:mo>−</m:mo>
+            <m:mi>x</m:mi>
+          </m:mrow>
+        </m:mfenced>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>H</m:mi>
+            <m:mi>C</m:mi>
+            <m:mi>l</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mn>84</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>2</m:mn>
+        <m:mi>X</m:mi>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>2.75</m:mn>
+            <m:mo>−</m:mo>
+            <m:mi>x</m:mi>
+          </m:mrow>
+        </m:mfenced>
+        <m:mn>36.5</m:mn>
+      </m:mrow>
+      <m:mn>84</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>73</m:mn>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>2.75</m:mn>
+            <m:mo>−</m:mo>
+            <m:mi>x</m:mi>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mn>84</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>2.39</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>0.87</m:mn>
+    <m:mi>x</m:mi>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-52">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>total HCl required</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.73</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>2.39</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>0.87</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2.19</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-53">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mn>0.14</m:mn>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>0.2</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-54">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>x</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1.43</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-55">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>% mass of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>C</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>1.43</m:mn>
+      </m:mrow>
+      <m:mn>2.75</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>52</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-56">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>% mass of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>M</m:mi>
+    <m:mi>g</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>52</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>48</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+</example>
+
+</section>
+<section id="section-3">
+<title> Back titration and decomposition </title>
+<para id="element-57">
+Back titration is analyzed using geq or meq concept. On the other hand, decomposition is analyzed using mole concept. We combine two concepts by converting final geq or meq data of back titration into either mass or moles.
+</para>
+<example id="example-58">
+
+<para id="element-58"><term>Problem : </term> 
+
+4.08 gm of a mixture of BaO and an unknown carbonate 
+<m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+ is heated strongly. The residue weighs 3.64 gram. The residue is then dissolved in 100 ml of 1 N HCl. The excess acid requires 16 ml of 2.5 NaOH for complete neutralization. Identify the metal M, if atomic weight of Ba is 138.
+</para>
+<para id="element-59"><term>Solution : </term> 
+
+We need to determine atomic weight of M to identify it. From the question, we see that first part involves decomposition, which can be analyzed using mole concept. Note that difference of mass of mixture and residue is mass of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>. On the other hand, analysis of back titration gives us meq of HCl required for neutralization of residue. To combine meq data with decomposition data, we shall convert required meq in milli-moles.
+
+</para>
+<para id="element-60">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>total meq of HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-61">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of excess HCl</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>N</m:mi>
+    <m:mi>V</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>2.5</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>16</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>40</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-62">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of HCl used for neutralization of residue</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>40</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>60</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-63">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>milli-moles of HCl for neutralization of residue</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mi>x</m:mi>
+    <m:mi>X</m:mi>
+    <m:mi>m</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>q</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>60</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>60</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-64">
+Now, we analyze the data which is given for decomposition of mixture. On heating, BaO is not decoposed. Only <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is decomposed as :
+
+</para>
+<para id="element-65">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mi>M</m:mi>
+    <m:mi>O</m:mi>
+    <m:mo>+</m:mo>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-66">
+Carbon dioxide is released and is not part of residue. The amount of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is equal to difference of mass of mixture and residue. Hence, moles of <m:math>
+  <m:mrow>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> released are :
+
+</para>
+<para id="element-67"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mrow>
+        <m:mi>C</m:mi>
+        <m:msub>
+          <m:mi>O</m:mi>
+          <m:mn>2</m:mn>
+        </m:msub>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+
+    <m:mfrac>
+
+        <m:mrow>
+    <m:mn>4.08</m:mn>
+    <m:mo>−</m:mo>
+      <m:mn>3.64</m:mn>
+
+        </m:mrow>
+      <m:mfenced>
+        <m:mrow>
+          <m:mn>12</m:mn>
+          <m:mo>+</m:mo>
+          <m:mn>2</m:mn>
+          <m:mi>X</m:mi>
+          <m:mn>16</m:mn>
+        </m:mrow>
+      </m:mfenced>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>0.44</m:mn>
+      <m:mn>44</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.01</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>m</m:mi>
+    <m:mi>o</m:mi>
+    <m:mi>l</m:mi>
+    <m:mi>e</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-68">Applying mole concept, moles of MO in the residue is 0.01 mole i.e. 10 milli-moles. Now,  MO reacts with HCl as :
+
+</para>
+<para id="element-69">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>O</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>M</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>l</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-70">
+Moles of HCl required for MO is 2X0.01 moles = 20 milli-moles of HCl. But total milli-moles that reacted with residue is 60 milli-moles. Hence, milli-moles of HCl that reacted with BaO is 60-20 = 40 milli-moles of HCl. Applying mole concept, 
+</para>
+<para id="element-71">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>O</m:mi>
+    <m:mo>+</m:mo>
+    <m:mn>2</m:mn>
+    <m:mi>H</m:mi>
+    <m:mi>C</m:mi>
+    <m:mi>l</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>B</m:mi>
+    <m:mi>a</m:mi>
+    <m:mi>C</m:mi>
+    <m:msub>
+      <m:mi>l</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+
+
+
+</para>
+<para id="element-72">
+The milli-moles of BaO is half of that of HCl. Hence, millimoles of BaO in the mixture is 20 milli-moles. 
+
+</para>
+<para id="element-73">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>amount of BaO in the mixture</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>milli-moles</m:mtext>
+        <m:mi>X</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>B</m:mi>
+            <m:mi>a</m:mi>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>20</m:mn>
+        <m:mi>X</m:mi>
+        <m:mfenced>
+          <m:mrow>
+            <m:mn>138</m:mn>
+            <m:mo>+</m:mo>
+            <m:mn>16</m:mn>
+          </m:mrow>
+        </m:mfenced>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>3.08</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-74"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>amount of MO in the residue</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>3.64</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>3.08</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.56</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-75">
+Using formula :
+
+</para>
+<para id="element-76"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mtext>milli-moles</m:mtext>
+    <m:mo>X</m:mo>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>M</m:mi>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>10</m:mn>
+        <m:mi>X</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mrow>
+            <m:mi>M</m:mi>
+            <m:mi>O</m:mi>
+          </m:mrow>
+        </m:msub>
+      </m:mrow>
+      <m:mn>1000</m:mn>
+    </m:mfrac>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-77">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>M</m:mi>
+      <m:mrow>
+        <m:mi>M</m:mi>
+        <m:mi>O</m:mi>
+      </m:mrow>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mn>100</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>0.56</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>56</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+
+</para>
+<para id="element-78">
+Clearly, atomic weight of M is 56-16 = 40. The element, therefore, is calcium.
+</para>
+</example>
+</section>
+<section id="section-4">
+<title> Back titration and multiple neutralizations </title>
+<para id="element-79">
+The concentration of titrant used to determine the excess reactant is not directly given. We make use of subsequent neutralization data to ultimately determine the concentration of titrant.
+</para>
+<example id="example-80">
+
+<para id="element-80"><term>Problem : </term> 
+
+A sample of <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4,</m:mn>
+    </m:msub>
+    <m:mn>4</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math> (molecular wt : 223) is heated in air. The residue is <m:math>
+  <m:mrow>
+
+    <m:msub>
+    <m:mi>Mn</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>, whose valency and molecular weight are 2 and 229 respectively. The residue is dissolved in 100 ml of 0.1 N <m:math>
+  <m:mrow>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+ solution containing dilute sulphuric acid. The resulting solution reacts completely with 50 ml of <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+
+
+ solution. 25 ml of the <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> solution requires 30 ml of 0.1N <m:math>
+  <m:mrow>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> solution for complete oxidation. Calculate the weight of <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4,</m:mn>
+    </m:msub>
+    <m:mn>4</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math> in the given sample.
+
+</para>
+<para id="element-81"><term>Solution : </term> 
+
+The excess of <m:math>
+  <m:mrow>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> completely reacts with 50 ml of <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> solution of unknown concentration. We need to know this concentration. From the data of complete oxidation, however, we can know concentration. Let 1 and 2 subscripts denote <m:math>
+  <m:mrow>
+    <m:mi>K</m:mi>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> and <m:math>
+  <m:mrow>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>, then
+
+</para>
+<para id="element-82">
+<m:math display="block">
+  <m:mrow>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-83">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mi>X</m:mi>
+    <m:mn>25</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>30</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-84">
+
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:msub>
+      <m:mi>N</m:mi>
+      <m:mn>1</m:mn>
+    </m:msub>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mn>3</m:mn>
+      <m:mn>25</m:mn>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.12</m:mn>
+    <m:mi>N</m:mi>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-85">
+Now, considering back titration, 
+
+
+</para>
+<para id="element-86"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>total meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext> solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.1</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>100</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>10</m:mn>
+  </m:mrow>
+</m:math>
+</para>
+<para id="element-87"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of excess</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>solution</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>0.12</m:mn>
+    <m:mi>X</m:mi>
+    <m:mn>50</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>6</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-88"><m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>F</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext>solution used for residue</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>10</m:mn>
+    <m:mo>−</m:mo>
+    <m:mn>6</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>4</m:mn>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-89">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>meq of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:mspace width="1em"/>
+    <m:mtext> in the residue</m:mtext>
+    <m:mo>=</m:mo>
+    <m:mn>4</m:mn>
+  </m:mrow>
+</m:math>
+
+</para>
+<para id="element-639">Mass of <m:math>
+  <m:mrow>
+
+    <m:msub>
+    <m:mi>Mn</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+  </m:mrow>
+</m:math> is determined using meq expression :</para><para id="element-90">
+<m:math display="block">
+  <m:mrow>
+    <m:mi>m</m:mi>
+    <m:mi>e</m:mi>
+    <m:mi>q</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mi>g</m:mi>
+      <m:mi>E</m:mi>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>x</m:mi>
+        <m:mi>g</m:mi>
+      </m:mrow>
+      <m:mrow>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>1000</m:mn>
+  </m:mrow>
+</m:math>
+
+
+</para>
+<para id="element-91">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mi>g</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mi>m</m:mi>
+        <m:mi>e</m:mi>
+        <m:mi>q</m:mi>
+        <m:mi>X</m:mi>
+        <m:msub>
+          <m:mi>M</m:mi>
+          <m:mi>O</m:mi>
+        </m:msub>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>x</m:mi>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>4</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>229</m:mn>
+      </m:mrow>
+      <m:mrow>
+        <m:mn>1000</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>2</m:mn>
+      </m:mrow>
+    </m:mfrac>
+    <m:mo>=</m:mo>
+    <m:mn>0.458</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+                   
+
+
+</para>
+<para id="element-92">
+The decomposition of 
+<m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4,</m:mn>
+    </m:msub>
+    <m:mn>4</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math> takes place as :
+
+</para>
+<para id="element-93">
+<m:math display="block">
+  <m:mrow>
+    <m:mn>3</m:mn>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4,</m:mn>
+    </m:msub>
+    <m:mn>10</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>→</m:mo>
+    <m:mi>M</m:mi>
+    <m:msub>
+      <m:mi>n</m:mi>
+      <m:mn>3</m:mn>
+    </m:msub>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>3</m:mn>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mo>+</m:mo>
+    <m:mn>10</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math>
+
+
+
+</para>
+<para id="element-94">
+Applying mole concept, the amount of <m:math>
+  <m:mrow>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4,</m:mn>
+    </m:msub>
+    <m:mn>4</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+  </m:mrow>
+</m:math> is :
+
+</para>
+<para id="element-95">
+<m:math display="block">
+  <m:mrow>
+    <m:mo>⇒</m:mo>
+    <m:mtext>Mass of</m:mtext>
+    <m:mspace width="1em"/>
+    <m:mi>M</m:mi>
+    <m:mi>n</m:mi>
+    <m:mi>S</m:mi>
+    <m:msub>
+      <m:mi>O</m:mi>
+      <m:mn>4,</m:mn>
+    </m:msub>
+    <m:mn>4</m:mn>
+    <m:msub>
+      <m:mi>H</m:mi>
+      <m:mn>2</m:mn>
+    </m:msub>
+    <m:mi>O</m:mi>
+    <m:mo>=</m:mo>
+    <m:mfrac>
+      <m:mrow>
+        <m:mn>3</m:mn>
+        <m:mi>X</m:mi>
+        <m:mn>223</m:mn>
+      </m:mrow>
+      <m:mn>229</m:mn>
+    </m:mfrac>
+    <m:mi>X</m:mi>
+    <m:mn>0.458</m:mn>
+    <m:mo>=</m:mo>
+    <m:mn>1.338</m:mn>
+    <m:mspace width="1em"/>
+    <m:mi>g</m:mi>
+    <m:mi>m</m:mi>
+  </m:mrow>
+</m:math>
+
+</para>
+</example>
+
+</section>
+ 
+  </content>
+  
+</document>
